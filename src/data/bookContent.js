@@ -22,7 +22,7 @@ export const chapters = [
           paragraphs: [
             "Kevin was once a vibrant, playful boy—curious, outspoken, and full of dreams. But life changed when the ground beneath him quietly shifted. Raised in a blended family marked by silence and unspoken pain, Kevin finds solace in the presence of his older brother Otis, whose mentorship sparks a version of life he never imagined.",
             "Just as hope begins to take root, Kevin is suddenly pulled out of the light and sent back to a place he had outgrown—a rural day school far from the dreams Otis had helped him glimpse. What follows is a slow unraveling of trust, identity, and belief in the people around him.",
-            "Through school scandals, quiet rebellions, and silent grief, Kevin becomes more withdrawn, his actions misunderstood by teachers, peers, and even himself. But what people see—his silence, the mischief, the drugs, the detachment—are not the story. They are the symptoms of something deeper, things that cannot always be spoken out loud.",
+            "Through school scandals, quiet rebellions, and silent grief, Kevin becomes more withdrawn, his actions misunderstood by teachers, peers, and even himself. But what people see—his silence, the mischief, the drugs, the detachment—are not the story. They are the symptoms of something deeper, things that cannot always be spoken out loud."
           ]
         },
         {
@@ -43,7 +43,7 @@ export const chapters = [
             "Kevin woke up to the hum of life outside the window—roosters crowing, children crying somewhere beyond the banana trees, a distant thud of jerrycans hitting the ground as women fetched water. The sun had not fully risen, but light was already crawling through the curtains of the one-bedroom brick house he slept in—built in honor of a woman no longer present.",
             "His mother.",
             "The house sat quietly in the family compound, next to the main one where his father lived with his second wife and their children. Both houses, modest but well-built, stood out in the village. Fenced and powered, theirs was one of the few compounds with electricity, a visible symbol that, here, lived a man who had once held a job in the city.",
-            "His father had been retrenched years back, but the hefty package he received had been used wisely. Businesses were established in a distant shopping center—hardware, agrovet, even a small store that",
+            "His father had been retrenched years back, but the hefty package he received had been used wisely. Businesses were established in a distant shopping center—hardware, agrovet, even a small store that"
             
           ]
         },
@@ -55,7 +55,7 @@ export const chapters = [
             "But this morning was different.",
             "There was something about the silence that settled in his bones. Something too loud to ignore.",
             "He didn’t take the usual route to school.",
-            "Instead, he turned left at the junction beyond the compound’s gate, taking the winding path toward the edge of the village—where silence met the mutter of illicit commerce. Kevin’s uniform was slightly",
+            "Instead, he turned left at the junction beyond the compound’s gate, taking the winding path toward the edge of the village—where silence met the mutter of illicit commerce. Kevin’s uniform was slightly"
           ]
         },
         {
@@ -64,7 +64,7 @@ export const chapters = [
             "A shack stood there before him, leaning behind a maize store, and hidden in plain sight. The chang’aa vendor inside barely blinked when Kevin approached. At eighteen, he looked older than he was. Broad-shouldered and tall, with tired eyes and an invisible weight pressing down on him, no one questioned him.",
             "The liquor burned his throat. Not much, but enough. Enough to blur the edges of thought. Enough to numb the weight in his chest and silence the voices in his head.",
             "He walked to school slowly, weaving slightly. The morning bell had long since rung. He slipped in through a secret route, in the thickets, passing unnoticed behind the classrooms, and made his way to his seat at the back. A few heads turned as he passed, noses twitching at a scent that didn’t belong. Whispers curled through the air. Kevin said nothing.",
-            "He lay his head down on his desk.",
+            "He lay his head down on his desk."
           ]
         },
         {
@@ -76,7 +76,7 @@ export const chapters = [
             "“Kevin!”",
             "Still nothing.",
             "The teacher stepped forward, frowning. He approached the desk and the moment he got close, the smell hit him.",
-            "“Unbelievable,” he muttered.",
+            "“Unbelievable,” he muttered."
           ]
         },
         {
@@ -87,7 +87,7 @@ export const chapters = [
             "In the deputy headteacher’s office, the mood was tense.",
             "The deputy, a fat man with thin-rimmed glasses, leaned back in his chair and stared at Kevin. He didn’t ask for an explanation.",
             "“You’ll go home,” he said flatly. “Two weeks. Possibly more. Depending on what your father says.”",
-            "He began to draft the suspension letter, each stroke of his pen hard and final.",
+            "He began to draft the suspension letter, each stroke of his pen hard and final."
           ]
         },
         {
@@ -98,7 +98,7 @@ export const chapters = [
             "He didn’t head straight home. Instead, he wandered past the shops where he sometimes stood staring at things he couldn’t afford. Past the church that once felt like home. He sat by the riverbank, watching the water slip over stones in endless motion.",
             "Two weeks.",
             "What could two weeks change in a life already ruined?",
-            "This was not the beginning of Kevin’s fall. Not even close. This moment was just a symptom of something deep.",
+            "This was not the beginning of Kevin’s fall. Not even close. This moment was just a symptom of something deep."
           ]
         },
         {
@@ -112,25 +112,102 @@ export const chapters = [
       title: "Chapter 2",
       pages: [
         {
-          title: "Understanding Pain",
+          title: "Several Years Before",
           paragraphs: [
-            "Pain is perhaps the most common symptom that brings people to seek medical care. It serves as a warning system, alerting us to potential harm or damage to our bodies. Pain can range from mild discomfort to severe agony and may be sharp, dull, burning, aching, stabbing, or throbbing in character.",
-            "The experience of pain is highly subjective and influenced by multiple factors, including one's pain threshold, past experiences, cultural background, and emotional state. This makes the assessment of pain particularly challenging in clinical settings.",
-            "Pain is typically categorized as acute or chronic based on its duration. Acute pain has a recent onset and limited duration, usually resolving as healing occurs. Chronic pain persists beyond the expected time of healing, often defined as lasting longer than three to six months."
+            "Years before the drunken morning, there was a boy with wide, curious eyes and limbs that couldn’t stay still. He lived in the city, in a modest estate where laundry lines doubled as goalposts and dusk brought the sound of spoons clinking against plates.",
+            "He used to run fast across city pavements and laughed /with abandon, not yet aware of the weight the world would place on his shoulders.",
+            "His earliest memories were framed by their simple two-room house, a place full of motion, where siblings shouted, came and went, and lived loosely under the guidance of a father who was rarely around. Their mother had died when Kevin was just two. No one spoke about her anymore, but the void she left would become more visible as Kevin grew, trying to find his own identity in a household where everyone already had theirs carved out. Being the youngest, he often found himself wandering through life with no real direction."
           ]
         },
         {
           paragraphs: [
-            "Nociceptive pain results from tissue damage and is typically well-localized. It may be described as sharp, aching, or throbbing and usually responds well to conventional pain medications. Examples include pain from cuts, burns, or arthritis.",
-            "Neuropathic pain arises from damage to the nervous system itself. It often has unique qualities, described as burning, electric, or shooting. This type of pain can be more difficult to treat and may require specialized medications. Conditions like diabetic neuropathy and post-herpetic neuralgia cause neuropathic pain.",
-            "Inflammatory pain occurs when inflammation triggers pain receptors. It often accompanies swelling, redness, and heat, as seen in conditions like rheumatoid arthritis or inflammatory bowel disease."
+            "Their father, an employee in one of the leading manufacturing companies, had turned down the lavish company houses others in his position accepted. The whispers from the older siblings said he wanted privacy — and the extra cash from the housing allowance. That meant the family shared the cramped space of the small estate house. There was no hallway to slip back into, nowhere to hide.",
+            "Kevin's siblings had strong personalities. The eldest sister was sharp-tongued and loud, always bossing others around. Her voice ruled the home—loud, impatient, sometimes kind but often biting. Kevin learned early how to dodge her temper. She ran a salon, their father had helped set up. The second sister had a different weight on her shoulders. She had gotten pregnant in high school, and though she gave birth to a beautiful baby girl, something in her dimmed after that. Their father bought her a sewing machine to help her rebuild her life and sponsored his eldest brother, Marcus,  to a driving school. ",
+            "Kevin’s two older brothers, Marcus and Brian, were opposites. Marcus was rebellious, wild and daring. He was always into something and was filled with a confidence Kevin didn’t possess but admired greatly. Brian was calm, obedient, and hardworking, he was even appointed head boy at his high"
           ]
         },
         {
           paragraphs: [
-            "Healthcare providers often use pain scales to measure pain intensity. The most common is the numerical rating scale, where patients rate their pain from 0 (no pain) to 10 (worst pain imaginable). Visual analog scales and face scales are alternatives that may be easier for some patients to use.",
-            "Beyond intensity, the assessment of pain should include its location, quality, timing, aggravating and relieving factors, and associated symptoms. This comprehensive evaluation helps narrow down potential causes and guide appropriate treatment.",
-            "When tracking your own pain, consider keeping a pain diary noting these characteristics. Patterns may emerge that provide valuable information for diagnosis and treatment planning."
+            "school. He always seemed to follow the rules and was everything Kevin didn’t see himself becoming. He admired him in a way, but there was a distance between them that Kevin couldn’t bridge. Kevin’s heart was drawn more to Marcus's fire for reasons he didn't understand.",
+            "Brian dreamed of a different world—a world beyond the estate, beyond their city. He once brought a white friend home, something no one in the estate had seen before. Kevin could see the longing in his brother’s eyes whenever he spoke about the foreign world. Brian always remained close to his family, obedient to the life his father had carved out for them.",
+            "And then there was his immediate elder sister, Joy. They were close, more by survival than design. They walked to school together, shared chores, and comforted each other in the silences that filled the space where their parents' presence should have been. If Kevin ever laughed freely in those years, it was likely Joy who sparked it.",
+            "His stepmother had joined them briefly in the city and would later return to the village and stay there permanently, living in a grass-thatched hut with her son. Kevin always found her cold and unreachable."
+          ]
+        },
+        {
+          paragraphs: [
+            "On visits to the village with his father, he always longed for the city again. The slow rhythm of the countryside bored him. The silence, ever loud.",
+            "At home, Kevin was treated as “the baby.” Not with pampering, but with a kind of reluctant kindness. Everyone looked out for him in their own flawed ways, but no one really saw him—not fully. So, Kevin absorbed his world in fragments. He picked up arrogance from his eldest sister,  quiet detachment from the second, unpredictability from his father, street and book smarts from his brothers, and gentle playfulness from Joy.",
+            "He attended the same government school with Joy and Brian. It was one of the best at the time as private academies hadn’t yet swept through the city like wildfire. The school was a melting pot—a place where students from different estates, languages, and temperaments converged. Kevin liked it there. He wasn’t at the top of his class, but he did well. His teachers noticed his curiosity, his odd questions, and his habit of trailing off into thought even in the middle of a sentence. He stayed with Brian only one year in the school as Brian's year of graduation was his first. Brian went to High school and he saw him less often since then, only occasionally at home."
+          ]
+        },
+        {
+          paragraphs: [
+            "Life wasn’t perfect, but it wasn’t unbearable. They had most of what they needed. Meals were regular, uniforms were clean, and the electricity rarely went out. But beneath the surface, something was forming in Kevin—something silent and slow. He was watching. Absorbing. Taking in everyone around him, trying to figure out who to become. He didn't realize it then, but all those borrowed fragments of personality would one day unravel—and he would have to reckon with the question: Who am I, really?",
+            "At school, Kevin was different. He was known /for his writing, especially compositions. He stood out for his ability to write beautifully, capturing the essence of whatever topic was thrown his way. Once, his class chose him to represent them in an English contest at a neighboring school. He was proud but quiet about it, unsure how to carry praise.",
+            "One Monday morning, Kevin was called to the headteacher’s office. His heart pounded as he walked through the corridors. Had he done something wrong? Did someone accuse him of something? The questions crashed into each other. When he arrived, he was questioned—almost grilled—about how he spent his weekend. From Saturday morning to Sunday night, he recounted every detail, each hour spoken in careful English. He had no idea what was happening. When he was done, they dismissed him"
+          ]
+        },
+        {
+          paragraphs: [
+            "without explanation.",
+            "Later, he found out the truth: an older student was in the staffroom with him, facing punishment for some wrongdoing. His poor English had been a sore point, so Kevin’s clean, fluent narration was used as an unspoken contrast. A quiet tool of humiliation.",
+            "Back home, the days passed with their own weight. Kevin was curious, emotional, and thoughtful. His older siblings were busy building their worlds. He watched, absorbed, and always felt left behind. Then, introversion began crawling in. Not just a result of his personality, but shaped by an experience that had changed him deeply.",
+            "One of his earliest sparks of interest in something beyond the books and quiet corners of his mind came through his fascination with martial art.  Kevin had always admired Marcus in secret. His charisma, fearlessness, and the down-to-earth attitude that made him appear to live life on his own terms. The fact that Marcus trained in martial arts made the admiration even stronger.",
+            "One night, the family sat down to watch Enter the Dragon,  a Bruce Lee movie where he lit up the"
+          ]
+        },
+        {
+          paragraphs: [
+            "screen with every move, and Kevin could hardly breathe. His body leaned forward with each punch and kick, his eyes wide. For the first time, the fire he had kept quietly inside flared. It was no longer a secret fantasy, it was a calling.",
+            "That night, under the thin, faded sheets of his bed, Kevin lay awake. He would go to the social hall tomorrow. He would train, even if it was just to watch from a corner. His heart beat with a wild rhythm. It felt like purpose.",
+            "The next evening, he walked to the social hall, his stomach turning with both excitement and fear. Inside, adults were already training—men with firm arms and focused eyes. He stood at the edge, unsure if he should stay. But the trainer, noticing him, waved him in with a kind smile. “Come. You can join us,” he said. Others had paid, but the man didn’t ask him for anything.",
+            "Kevin trained hard, lost in the thrill of movement and belonging. He didn’t even notice the sun had vanished behind the tall buildings. When he /finally stepped out, the cold breath of night startled him. Fear crawled up his spine. His eldest sister."
+          ]
+        },
+        {
+          paragraphs: [
+            "At home, the moment he entered, her face changed. “Where have you been?” she demanded, voice sharp with suspicion. Kevin stammered, tried to explain, but it was too late.",
+            "She dragged him to a dim corner at the back of the house, a place lit only by a flickering bulb. “Take off your trousers,” she ordered.",
+            "He hesitated.",
+            "“I said take them off.”",
+            "He obeyed.",
+            "A thick electric wire which was no longer in use landed on his skin again and again, each lash lighting up his nerves. His body shook but he didn’t cry out. Not aloud. The only sounds were the quiet breaths and the soft snap of wire meeting skin.",
+            "Afterward, no one said anything."
+          ]
+        },
+        {
+          paragraphs: [
+            "He ate silently, barely tasting the food, sitting on what felt like fire forming beneath his skin. In bed, he sobbed into the pillow, heart broken in confusion. The warmth of kindness from the social hall clashed violently with the pain at home. How could something that felt so right be punished so cruelly?",
+            "No one ever spoke of it.",
+            "Days blurred into one another. Kevin moved with caution, his body healed faster than his spirit. The training session had awakened something deep in him—something that now felt dangerous to even acknowledge.",
+            "One evening, as the sun began to dip behind the trees, Kevin was walking home when he heard distant chants and laughter. He followed the sound until he reached a clearing near the school field. A group of scout students were rehearsing—forming lines, practicing drills, shouting in rhythm. They looked proud, united, and free.",
+            "Kevin stood behind a tree, watching in silence. The longing was immediate. He wanted to be part of that, to wear the uniform, to shout those chants. But as he imagined himself walking into the group, an"
+          ]
+        },
+        {
+          paragraphs: [
+            "icy fear wrapped around his chest. He saw flashes of the dim corner of the house, the wire, and the sting. His feet refused to move forward. He turned and walked away quietly.",
+            "That Sunday, after the lesson, the Sunday school teacher clapped her hands and announced, “We need children for a short play next week. Kevin, would you like to act?”",
+            "Kevin's heart jumped. He wanted to say yes. He could already see himself on stage, reciting lines, making people laugh or cry. But then his mind conjured the same fear. What if she heard? What if she didn’t approve? What if the kindness turned to punishment again?",
+            "He shook his head. “No.”",
+            "The teacher frowned slightly, disappointed. Other children whispered, some laughing. “He’s always saying no.” “He just doesn’t like fun.” “He thinks he’s too good.”",
+            "Kevin sat through the rehearsal, and later the play, eyes glued but his heart breaking quietly. He watched each movement, memorized the lines, imagined himself in every role. But the fear had already"
+          ]
+        },
+        {
+          paragraphs: [
+            "made a home inside him. It told him to stay small. To stay hidden. To stay safe. No one ever asked him why. They only saw what he didn’t do. That memory, stayed with him for a long time.",
+            "His shyness deepened with time, tangled up with fear and a loss of trust. Though he never stopped thinking about Marcus or copying the way he walked, sat, or even laughed, he began keeping more of his feelings inside.",
+            "And then, things got worse. As he neared the end of his sixth grade in the city school, he overheard a conversation between his father and older siblings. It was about his transfer to the village—a decision driven by his father’s recent retrenchment. The job that had anchored their life in the city was gone, unexpectedly. The argument was heated, with Marcus speaking up for him, trying to argue that Kevin should stay in the city where he had built a foundation. But the decision had already been made. Their father was already rebuilding in his mind: a fresh compound in the village, complete with electricity, fences, and business ventures. Furthermore, the eldest sister, whose voice ruled the home, insisted that Kevin and Joy had to leave.",
+            "His future, he learnt, was not his to decide. That was the first time Kevin realized decisions about his"
+          ]
+        },
+        {
+          paragraphs: [
+            "life were being made in rooms he hadn’t entered. However, he didn’t protest. He was already accustomed to being moved by other people’s decisions. Joy cried, though, and it hurt him more than he expected.",
+            "This conversation sparked the memory of Charles, a classmate, who had been transferred from the city school to a different town but came back a couple of months later. Kevin hadn’t understood the layers beneath that, but noe he couldn't help but hope that his fate would follow Charles’s path. Only, he wasn't sure but he could feel it coming, and it terrified him.",
+            "Eventually, the decision was made. Kevin would go upcountry. Joy, his immediate sister and closest age mate, had finished her final year in the city school. She would also be relocating to join a rural high school. The two of them left together, the silence between them occasionally punctuated by nervous hope."
           ]
         }
       ]
