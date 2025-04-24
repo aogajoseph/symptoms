@@ -281,28 +281,58 @@ export const chapters = [
       title: "Chapter 4",
       pages: [
         {
-          title: "Abdominal Pain",
+          title: "First Year in High School",
           paragraphs: [
-            "Abdominal pain ranks among the most common symptoms prompting medical consultation. The abdomen houses numerous organs, making differential diagnosis particularly challenging. The location, character, timing, and associated features of pain provide essential diagnostic clues.",
-            "Upper abdominal pain may originate from the stomach, duodenum, pancreas, or liver. Lower abdominal pain often involves the intestines, appendix, or pelvic organs. Pain radiating to the back frequently suggests pancreatic disorders, while pain radiating to the right shoulder may indicate gallbladder disease.",
-            "Acute, severe abdominal pain requires prompt medical evaluation, especially when accompanied by fever, persistent vomiting, bloody stool, or signs of shock. Conditions such as appendicitis, intestinal obstruction, or perforated ulcer may present this way and constitute surgical emergencies."
+            "This was the first time Kevin and his father had stood alone together in a long time. The admissions queue was almost empty now, just the two of them at the very end, the sun slanting lazily through the dusty school compound. Kevin shuffled his feet in silence, his eyes lowered. Then, unexpectedly, his father turned to him and spoke.",
+            "\"You’ll go to the boarding school next year,\" he said with a vague smile, one that never quite reached his eyes. The words were soft, almost like a whisper of hope. Kevin’s heart stirred. For a moment, the sadness of being in this village school he had dreaded, was lifted.",
+            "His father didn’t ask how he felt. He didn’t notice the cloud that still lingered in Kevin’s chest. He just gave him a pat on the back, brief and disconnected, and faced forward again, as though the conversation was over.",
+            "And yet, in the simplicity of his childhood trust, Kevin believed him."
           ]
         },
         {
           paragraphs: [
-            "Nausea is the unpleasant sensation of impending vomiting, often accompanied by autonomic symptoms such as pallor, sweating, and increased salivation. Vomiting is the forceful expulsion of gastric contents through the mouth, resulting from complex coordination between the gut, diaphragm, and abdominal muscles.",
-            "These symptoms commonly occur with gastrointestinal infections but may also indicate systemic diseases, medication effects, or disorders of the central nervous system. The timing relative to meals, character of vomited material, and associated symptoms help identify the cause.",
-            "Particularly concerning features include blood in vomitus (hematemesis), vomiting resembling coffee grounds (suggesting digested blood), projectile vomiting (possibly indicating increased intracranial pressure), and feculent vomiting (suggesting intestinal obstruction)."
+            "He held on to those words like a seed. His father had spoken a promise, and in Kevin’s heart, promises were sacred. He walked through the school gates that day with a quiet resolve. This was temporary. Next year would be different.",
+            "To his surprise, Kevin adjusted well. The rhythm of school returned to him naturally. He made friends, many of them students who had once been his peers back at the shopping center school. Their familiarity became a bridge for him. Teachers noticed his attentiveness. He excelled in physics, business studies, and English—subjects that sparked something bright in him. The fire hadn’t gone out. It had only been moved.",
+            "Joy was in the same school, though her spirit had dimmed. She was in her final year, and visibly pregnant by a classmate. One evening, under the fading sunset, she sat beside Kevin on the steps of their mother’s house and looked at him closely.",
+            "\"Don’t count on that promise,\" she said softly. \"He told me the same thing. Said I’d go to a different school the next year. I never did.\""
           ]
         },
         {
           paragraphs: [
-            "Changes in bowel habits encompass alterations in frequency, consistency, volume, or color of stool. Diarrhea—loose or watery stools occurring more frequently than normal—most commonly results from infections but may also indicate inflammatory bowel disease, malabsorption syndromes, or medication effects.",
-            "Constipation, characterized by infrequent or difficult defecation, can stem from inadequate fluid or fiber intake, medications, or various medical conditions. When constipation develops suddenly in someone with previously regular habits, it warrants evaluation, especially if accompanied by abdominal pain or unexplained weight loss.",
-            "Alternating diarrhea and constipation commonly occurs in irritable bowel syndrome but may also suggest partial intestinal obstruction or colorectal cancer. Changes in stool color, particularly black or bloody stools, require prompt medical assessment to identify potential bleeding sources."
+            "Her eyes, tired and wise beyond her age, studied him. \"He says things he doesn’t mean, Kevin. I’m telling you because I know you believe him. But don’t be too shocked if he doesn’t do what he said.\"",
+            "Kevin listened, the words cutting through him like a cold wind. But he didn’t respond. Something in him refused to accept it. He nodded slowly but stored her warning far behind his hope. He still believed.",
+            "And so he went on, full of light. Teachers spoke well of him. He became popular among his classmates. Girls giggled around him, threw glances in the corridors, waited at the gates. But Kevin, still burdened by the fear and confusion that intimacy brought, never let it go too far. He smiled, made conversation, but backed away from anything deeper.",
+            "At home, he wore a strong spirit like a cloak. He helped with chores, laughed when expected, kept to himself when needed. But the distance between him, Joy, and the rest of the family remained like a silent wall. The main house was alive with noise, children, and chatter, brightened by glowing bulbs—yet it never felt like home."
+          ]
+        },
+        {
+          paragraphs: [
+            "Kevin didn’t mind. In his mind, the boarding school was coming. He had scratched a secret countdown at the back of his file at school. Each day, he marked an X and did the math: how many days until freedom, and a new beginning. It was this private ritual that gave him strength.",
+            "During holidays, he traveled to the shopping center to be with Marcus. Those days were some of the brightest. He helped with the businesses—stocking shelves, serving customers, learning small tricks of trade. It made him feel grown, useful. And there, he reunited with his old friends—most of them now in boarding schools. They’d sit outside the shops in the evening, trading stories of boarding life.",
+            "They told him about prep time, dorm life, the food, the fights, the bonds. Kevin soaked it all in with burning excitement. He laughed with them, eyes wide, heart ready.",
+            "When it was time to go back to school, he’d carry those stories with him. In class, he began saying things like, \"Next year I’ll be in boarding school. If my father doesn’t take me, I’ll quit school altogether.\" It was a bold statement, but for Kevin, it felt like a vow.",
+            "Yet somewhere deep inside, a shadow grew. The thought came late at night, when he stared at the"
+          ]
+        },
+        {
+          paragraphs: [
+            "ceiling of their dark room in the dimness of a flaring candle. Why had his father brought him back here? It wasn’t money—he had businesses, their house was better house than anyone's in the village. Their life wasn’t poor.",
+            "No one ever explained it.",
+            "He found comfort in that promise, repeated like a prayer: next year. He trusted that his father would keep it.",
+            "The third term ended. Exams were over. Students packed, laughed, and said goodbye. Kevin went to Marcus again, helped in the shops, walked the town with his friends. They talked about school resuming, about the new term—and the new schools.",
+            "But this time, something was different. No one at home spoke about the boarding school. The silence was louder than any denial. Days passed, and the holidays thinned. Kevin tried not to show it, but the dread gnawed at him."
+          ]
+        },
+        {
+          paragraphs: [
+            "Joy’s warning came back to him, no longer a whisper but a loud echo. Her voice and her disappointment suddenly made sense.",
+            "Then, like a cruel joke, the holidays ended, and Kevin found himself back at the same village school. No conversation. No explanation. Just the quiet finality of a decision made without him, once again.",
+            "And like the first time, his father said nothing.",
+            "No anger. No comfort. Just silence.",
+            "Kevin entered the gates again, the same ones he had planned to escape. But this time, he didn’t carry hope in his chest. Only the heavy, bitter truth that promises are not always meant to be kept."
           ]
         }
-      ]
+      ]      
     },
     {
       title: "Chapter 5",
