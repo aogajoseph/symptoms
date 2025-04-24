@@ -216,25 +216,63 @@ export const chapters = [
       title: "Chapter 3",
       pages: [
         {
-          title: "Shortness of Breath (Dyspnea)",
+          title: "Another Life",
           paragraphs: [
-            "Dyspnea—the sensation of difficult or uncomfortable breathing—is a common but potentially serious symptom. People experiencing dyspnea often describe feeling that they cannot get enough air, tightness in their chest, or having to work harder to breathe.",
-            "This symptom can develop gradually or suddenly and may occur at rest or only with exertion. Acute dyspnea with rapid onset often signals an emergency, especially when accompanied by chest pain, dizziness, or fainting.",
-            "Common causes include asthma, chronic obstructive pulmonary disease (COPD), heart failure, pneumonia, and anxiety. Less commonly, pulmonary embolism, pneumothorax, or anaphylaxis may be responsible. The context and accompanying symptoms help determine the likely cause."
+            "When they moved, it was like entering another life. The compound was large and neatly organized, bordered by a sturdy fence—one of the few that stood out in the village. At night, the house glowed with electric bulbs, a quiet announcement to the neighbors: a man who had once held a city job lived here.",
+            "Kevin and Joy were placed in the small brick house built in memory of their late mother. The house was smaller than the main one next to it and wasn't powered. But at least, it had a soul of its own—walls that remembered what no one said aloud. Some nights, Kevin could feel her presence more clearly than the living ones across the compound.",
+            "Joy joined the nearby secondary school. Kevin was enrolled in the primary version just next to it down the dusty road. The divide between them, their father and the step family in the main house grew wider by the day, almost naturally. As the step-siblings played noisily their stepmother’s voice rose often and warmly—but rarely in their direction."
           ]
         },
         {
           paragraphs: [
-            "Cough is a protective reflex that clears the airways of irritants, foreign particles, and secretions. While often benign, persistent cough warrants medical evaluation, especially if accompanied by other concerning symptoms.",
-            "Acute cough, lasting less than three weeks, frequently results from viral respiratory infections. Subacute cough persists for three to eight weeks and may represent a lingering effect of infection or the beginning of a chronic condition. Chronic cough, lasting more than eight weeks, suggests underlying disorders such as asthma, COPD, gastroesophageal reflux disease, or medication side effects.",
-            "The characteristics of cough provide diagnostic clues: a dry, hacking cough differs from one producing phlegm or sputum. The timing, triggers, and associated symptoms further narrow potential causes."
+            "In the quiet of that rural space, Kevin sat at the doorstep of his mother’s house most evenings, watching the sky and the distant hills, wondering what parts of him were still his, and what parts he had borrowed just to cope.",
+            "Kevin’s new school was a different universe. Gone were the crisp uniforms and crowded playgrounds of the city. Here, time dragged. The language was rough, the teachers stricter, and the other children suspicious of his accent, his manners, and his cleanliness, being the only student with polished shoes when others came barefoot. He shrank again—became small, careful and watchful.",
+            "Then came the bigger shock.",
+            "In his new school, students in the higher grades, operated on a system that felt strange to him. They would go home in the evenings, only to return at dusk. They studied deep into the night, slept briefly on mats laid across the cold floors, then woke up at dawn for another round of studying before day classes began.",
+            "At first, Kevin thought it was admirable, it reflected a hunger to succeed. But soon, he saw the shadows"
           ]
         },
         {
           paragraphs: [
-            "Various abnormal breathing patterns can indicate specific medical conditions. Tachypnea refers to abnormally rapid breathing, often seen in fever, anxiety, or conditions reducing oxygen levels. Bradypnea, or abnormally slow breathing, may occur with drug overdoses, increased intracranial pressure, or certain metabolic disorders.",
-            "Kussmaul breathing—deep, labored breathing—characteristically appears in diabetic ketoacidosis and other conditions causing metabolic acidosis. Cheyne-Stokes respiration, with its cyclical pattern of gradually increasing then decreasing depth of breathing separated by periods of apnea, suggests severe heart failure or neurological damage.",
-            "Sleep apnea, characterized by repeated pauses in breathing during sleep, requires specific evaluation and treatment due to its association with cardiovascular complications and daytime impairment."
+            "behind it. Some girls would spend nights in unknown locations under the guise of studying, only to disappear for months and reappear with swollen bellies. A few classmates had children waiting for them at home, hidden in the folds of their young lives. Rumors of abortions were whispered just as often as those of sexually transmitted diseases. Students repeated classes three, four, even five times—not for the sake of learning, but for this nighttime freedom among other disappointing reasons. Teachers either knew and ignored, or simply didn’t care.",
+            "It unsettled him deeply. Something inside him began to break, but no one noticed. Not at home. Not even Joy, absorbed in her own adjustment.",
+            "Weeks later, Marcus left for the distant shopping center. Their father, flush with retrenchment money, had started a set of small businesses there—hardware, chemist, and a general store—and placed Marcus in charge.",
+            "For a while, Kevin felt like his last thread to the world had snapped. But Marcus hadn't forgotten him.",
+            "One Saturday, Marcus returned. He watched Kevin quietly over lunch, saw the dullness in his eyes, the"
+          ]
+        },
+        {
+          paragraphs: [
+            "withdrawn silence that masked something broken.",
+            "A few days later, Marcus returned—with a decision. He arrived at the school on a bicycle, stopping by the live fence where narrow paths led into the school compound from every direction. He asked a nearby student to fetch Kevin, who was well-known across the school. When word reached Kevin that someone was looking for him, his stomach tightened. But he went anyway, heart racing with uncertainty. What he found stopped him in his tracks—it was Marcus, waiting with that familiar calm in his eyes.",
+            "“Get your books. You’re not staying here,” Marcus said.",
+            "For a second, Kevin thought he was dreaming. It felt like a soft abduction, the kind you welcome with open arms. Without a word, he turned and obeyed.",
+            "Marcus took in Kevin with him at the shopping center and enrolled him in a better primary school. It wasn't to the standards of the city school but was livelier and had structure. Kevin moved in with Marcus above one of the shops. It was small, but clean, and for the first time in months, he felt air"
+          ]
+        },
+        {
+          paragraphs: [
+            "returning to his lungs.",
+            "Marcus even hired a private tutor to help him with his weak subjects. They studied every evening—gently, patiently and Kevin started to rise again.",
+            "In the new school, Kevin found the same attention from girls that had followed him in the city and village. But there was one who stood out—her quiet eyes, her love for books, and the way she talked about city life with pride.",
+            "He could tell she liked him—and he liked her too. There was a warmth between them, easy smiles and shared glances that made the world feel lighter. But when their conversations began to lean toward intimacy—teasing, suggestive laughter, the kind of talk that hinted at more—Kevin froze. A quiet panic gripped him, a mixture of shame and fear he couldn’t name, let alone explain.",
+            "Over time, the girl grew distant. She stopped waiting for him at the gate, stopped smiling when their eyes met. Kevin was left confused, and hollow. He didn’t understand what had gone wrong—only that something inside him felt broken, and he didn’t know how to fix it."
+          ]
+        },
+        {
+          paragraphs: [
+            "But, on the flip side, Marcus’s guidance worked. Kevin’s performance shot up. He aced his final exams and earned a place at a prestigious boarding school. The letter felt like deliverance. A new world awaited.",
+            "But then, without warning, everything changed.",
+            "His father made the decision quietly, as he often did—without discussion, but cloaked in the tone of reason. “He’ll go to the village school,” he said one evening, as though it was the only logical step. No questions were invited, and none were allowed. It was presented as practicality, a matter of logistics and sense—but beneath it, Kevin felt the weight of something else. Something colder.",
+            "To others, it might have sounded like a plan—a father placing his son where he believed he belonged. But to Kevin, it felt like an exile, wrapped in soft words. He hadn’t been consulted. Not even warned. The day he learned of the transfer, everything had already been arranged. His name scratched off one list and quietly written onto another.",
+            "The betrayal wasn’t in the school itself—it was in the silence, in the assumption that he wouldn’t object,"
+          ]
+        },
+        {
+          paragraphs: [
+            "or didn’t matter enough to be heard. He stared at his father across the room that night, searching for a flicker of softness, an explanation, something. But the man’s face remained unreadable, already turned toward other matters.",
+            "Marcus tried to speak up but was quickly reminded—he had no say. He managed the businesses. That was all.",
+            "Kevin stood at the gate of the village high school on the first day, holding a bag of books and school requirements. His heart was full of quiet devastation. He didn’t cry. He just felt a hollow inside him stretch wider."
           ]
         }
       ]
