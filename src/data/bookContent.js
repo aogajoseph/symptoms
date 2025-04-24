@@ -338,25 +338,87 @@ export const chapters = [
       title: "Chapter 5",
       pages: [
         {
-          title: "Headache",
+          title: "Second Year in High School",
           paragraphs: [
-            "Headache, one of the most prevalent human ailments, encompasses a broad spectrum of disorders with diverse causes and clinical features. Primary headaches, including migraine, tension-type, and cluster headaches, are not attributed to another condition and typically follow characteristic patterns.",
-            "Secondary headaches result from underlying causes such as infection, trauma, vascular disorders, or increased intracranial pressure. These require identification and treatment of the underlying cause. The \"thunderclap headache\"—explosive, severe pain reaching maximum intensity within seconds—warrants emergency evaluation for life-threatening conditions like subarachnoid hemorrhage.",
-            "When evaluating headaches, clinicians consider the onset, location, quality, intensity, duration, frequency, aggravating and relieving factors, and associated symptoms. Neuroimaging may be indicated when headaches have atypical features or when they're accompanied by neurological symptoms, seizures, or signs of increased intracranial pressure."
+            "Kevin started his second year of school on the weight of a broken promise. He was sixteen, but already carried the ache of betrayal like a grown man. His father had promised that he would be transferred to a boarding school this year — a place where he could finally escape the whispering walls and cold eyes of the step-family, start afresh, and perhaps even feel like a son again. But January came and passed, and nothing changed. He found himself walking through the same dusty paths to the same school in the village. The promise had been hollow, and Kevin, who had built his hopes around it like a fragile house of cards, felt them collapse silently within.",
+            "Adjusting was harder this time. The first year had been difficult, but back then he’d held onto the idea that better days were coming. Now that illusion had been shattered, and with it, his ability to pretend. He tried to lose himself in his books, in laughter, in football, but the weight of disappointment lingered like a fog that refused to lift. At night, he lay awake, eyes open in the darkness, thinking of how unfair life had become, how trapped he felt in a story that seemed to be writing itself without his permission."
           ]
         },
         {
           paragraphs: [
-            "\"Dizziness\" encompasses several distinct sensations often described differently by patients. True vertigo refers to an illusion of movement, typically a spinning sensation, suggesting dysfunction in the vestibular system. Lightheadedness or presyncope—the feeling that one might faint—often relates to cardiovascular causes or low blood sugar.",
-            "Disequilibrium, or unsteadiness when standing or walking, frequently stems from neurological or musculoskeletal disorders affecting balance. Non-specific dizziness may result from anxiety, hyperventilation, or medication effects, among other causes.",
-            "Associated symptoms help distinguish between these types and their potential causes. Vertigo with hearing changes suggests inner ear disorders, while dizziness accompanying chest pain, palpitations, or shortness of breath may indicate cardiovascular issues. Temporary dizziness with neck turning might represent vertebrobasilar insufficiency."
+            "His sister Joy had left too. She had always been his refuge, the one who made sense in the chaos. Her voice was comfort, her presence a reminder that not all love was conditional. But now she was gone, off to the city to start her own life with her daughter, and her absence was like a gaping hole in Kevin's chest. He felt abandoned, forgotten, as if the only person who truly saw him had walked out and closed the door behind her. And now, alone with the step-family, the loneliness settled deep in his bones.",
+            "Every day, Kevin found his mind drifting back to the shopping center, to the rhythm and color of city life. The way the matatus honked, how the buildings towered above him, how the lights at night told stories of possibility. Those memories came back vivid and sharp, like they had happened only yesterday. He could remember the taste of ice cream, Sunday school, the Karate hall, the feeling of walking into a store without being followed by suspicious eyes, the rare moments of laughter with Joy in the city, and the childhood games. The good memories warmed him — but also hurt, because they reminded him of what he’d lost. And the bad ones — the rejections, the disappointment, the sting of being unloved — started hardening him. He didn’t know it, but he was slowly withdrawing from the world. The once-curious, animated boy was becoming quiet, observant, bitter. He began to talk less, smile less. Even when he laughed, it didn’t reach his eyes."
           ]
         },
         {
           paragraphs: [
-            "Alterations in consciousness range from mild confusion to deep coma. These represent emergencies requiring prompt evaluation and often indicate serious underlying conditions affecting brain function.",
-            "Delirium—an acute confusional state with fluctuating course, inattention, and altered consciousness—commonly affects hospitalized patients, particularly the elderly. It may result from medications, infections, metabolic disturbances, or other medical conditions and carries significant morbidity and mortality.",
-            "Stupor refers to a state of near-unconsciousness with preserved response to painful stimuli, while coma involves unresponsiveness even to painful stimulation. Both require immediate medical attention to identify and address the cause, which may include toxic exposures, metabolic disorders, infections, or structural brain lesions."
+            "At home, he grew quieter by the day, the gap between him and his step-family growing wider.",
+            "Mealtimes became silent rituals. His presence was like a shadow — tolerated but never embraced. No one asked how he was doing; no one noticed when he didn’t speak. With Joy gone, there was no one left to bridge the gap. The house, though full of people, felt colder than ever.",
+            "At school, the attention he once received began to slip through his fingers. The teachers who once praised him grew indifferent. The classmates who used to gravitate toward him found new circles. His grades, once decent, began to tumble. He couldn’t concentrate — not because he didn’t care, but because something deep inside him had dulled. His thoughts wandered mid-lesson, and his books blurred before his eyes. Sometimes he’d stare at a page for minutes, lost in thought, only to realize he hadn’t taken in a single word.",
+            "The fire in him began to flicker. He didn’t know what was happening — only that he felt distant from himself, like he was watching his life unfold from a distance. One moment he’d be hopeful, convinced that his father would finally deliver on his word and take him to a better school the following year. The next, he’d spiral into hopelessness, certain nothing would ever change. His own words — the ones he"
+          ]
+        },
+        {
+          paragraphs: [
+            "had muttered in anger months ago about quitting school — came back to haunt him. They rang in his head like a curse he had accidentally spoken into being.",
+            "He began to wonder: how do people quit school? Do they just stop coming? Do they write a letter? Tell a teacher? He didn’t know. He didn’t know who to ask, and even if he did, what would he say? That he was tired of hoping? That he felt invisible? The thought of quitting settled in his chest like a stone. Every day, it pressed heavier.",
+            "Soon, an idea began to creep in — what if he could get expelled? What if he started skipping class? Maybe then his father would have no choice but to take him to the boarding school. Maybe shame would force him to act. Kevin didn’t realize it, but he was just a child groping blindly in the dark, trying to make sense of a world that seemed cruel and deaf to his pain.",
+            "He began to think about it constantly. During lessons, while other students scribbled in their books, Kevin sat with ideas flashing through his mind like lightning — vivid, intense, and uncontrollable. He planned, rehearsed, and waited for the right moment."
+          ]
+        },
+        {
+          paragraphs: [
+            "And then one morning, he acted.",
+            "As the entire school gathered for the morning assembly, Kevin pretended to be heading to the toilets at the edge of the compound. After taking care of business, he looked around — no one was watching. Heart pounding, he slipped through a gap in the wire fence and disappeared into the nearby villages. He wandered aimlessly until he could find someone ploughing, so he would offer to help. Some paid him; some didn’t. To the villagers, he was a puzzle — the son of a well-off city man, working like a drifter in dusty fields. Some pitied him, others gossiped, but most simply shrugged him off as one more broken boy trying to survive.",
+            "The second time he tried it, fate turned cruel. He found himself working at the homestead of a classmate — a boy who had missed school that day due to illness. The boy saw Kevin bent over, weeding, and was stunned. He immediately called his parents and told them about Kevin's father. Worried about getting involved in the affairs of a  \"rich\" city family, they paid Kevin quickly and dismissed him, asking him never to return. Kevin, on his way out, saw his classmate from a distance and felt humiliation like never before. He never returned to the villages again."
+          ]
+        },
+        {
+          paragraphs: [
+            "On seeing that skipping classes wasn’t working — that despite sneaking off and working in nearby farms, no one seemed to notice or care enough to expel him — he realized he had to try something different. He had hoped that if he was caught, the school would send him away, maybe even to the boarding school he longed for — away from the stepfamily, away from the ghosts of a lonely home, and hopefully into a fresh start. But that hope had crumbled silently, just like the rest.",
+            "So, in the silence of his frustration, something darker began to stir inside him — an urge to shout without speaking, to fight without raising a hand. That’s when the idea of the suggestion box came. It hung dusty and forgotten on one side of the administration block — a relic of a school system that pretended to care about feedback. Most students ignored it. But Kevin saw it as a possible weapon — or maybe, a last attempt at being seen.",
+            "He chose Geography — not because the teacher was worse than the others, but because this particular teacher had a way of silencing students with sarcasm and condescension, and Kevin had long become the easiest target. The words Kevin wrote weren’t all lies. In fact, most were painfully true. He detailed"
+          ]
+        },
+        {
+          paragraphs: [
+            "how the teacher humiliated students, how he mocked their questions, how he made learning feel like a battlefield. He hoped that such truth would shake something loose, spark a scandal, bring attention — anything that might lead to change or escape.",
+            "He wrote it all anonymously, breaking his handwriting, replacing letters with symbols, mimicking an older student's style, even using the left hand to confuse any guessing. He slipped it into the box one quiet evening, his heart thudding like it would burst. And then he waited. Not for glory. Just for movement. A shift. Maybe even release.",
+            "But the system was never designed to understand cries for help dressed as rebellion.",
+            "Within days, the letter caused a stir. The suggestion box had suddenly come alive after months of neglect — but it wasn’t a celebration of student voice. It was a witch hunt. The teacher, furious and wounded in ego, demanded an investigation. The school, rigid and reverent to its staff, launched it quickly. It didn’t take long for the suspicion to fall on Kevin. Maybe it was the tone. Maybe it was his growing reputation as a troubled boy. Maybe someone whispered his name. Whatever the reason, the blame landed squarely on him"
+          ]
+        },
+        {
+          paragraphs: [
+            "Without proof or defense, the punishment was swift, brutal and public.",
+            "Kevin was summoned during morning assembly. The same field where he used to sneak off into the villages now became a stage for his humiliation. In front of hundreds of students, the Geography teacher made him kneel. With a rod fashioned from a guava tree, the teacher struck him repeatedly on the legs and back, spewing words sharper than the blows. The administration watched. The students stayed quiet. It was not just punishment — it was a message: we control the narrative here.",
+            "And as if that wasn't enough, the teacher issued a final verdict: Kevin was never again allowed in his classes. To Kevin, it was supposed to be victory. The start of an expulsion. The beginning of an end. But the story didn’t leave the school compound. The administration buried it quietly. His father never found out. His plan had once again failed.",
+            "What he didn’t expect was how the teacher turned the other students against him. Kevin began hearing whispers — that the teacher had been talking about him in his lessons, calling him spoiled, a fool, someone who thought he was too good for village life. That he was a bad influence. A city boy with a broken compass. His name became a joke in other classes. The mockery didn’t just stay behind his"
+          ]
+        },
+        {
+          paragraphs: [
+            "back; it found its way into his locker, his seat, the way others looked at him.",
+            "The students were shocked by what he had done. Not because they disagreed. In fact, many had suffered under their teachers, but because in their eyes, Kevin had broken a sacred rule: you don't challenge authority. You endure it. That was the unspoken law in that school.",
+            "Teachers were gods, and students were to serve. Kevin’s defiance wasn’t seen as brave. It was scandalous.",
+            "But what no one saw, was the weight behind Kevin’s actions. The desperation. The isolation. The slow unraveling of a boy trying to make sense of a world that had promised him something better and then stripped it all away. A boy abandoned by a system that seemed to only care about obedience, not well-being.",
+            "After that, Kevin withdrew even further. The stories by fellow students no longer reached him. He stopped asking questions in class — not out of defiance, but out of sheer numbness. He began to wonder if maybe he truly was the problem. Maybe he deserved the silence. Maybe hope had been a"
+          ]
+        },
+        {
+          paragraphs: [
+            "childish mistake.",
+            "And slowly, in the shadows of broken systems, the boy who once dreamt of greatness in the city, began to vanish — not in body, but in spirit.",
+            "He shifted his efforts to visiting a relative living close by on weekends. He had a son who was older, a graduate, but who now burnt bricks for a living. Kevin watched him for weeks, fascinated by the routine, the strength and the fire. Secretly, he began to join him, smearing mud, stacking bricks, working like a man. His father didn’t know but one day, as he passed by the gate of that homestead, he could see them from a distance, over the short live fence, as they worked. Kevin smeared mud all over his face and arms to avoid recognition — and it worked. It felt clever, resourceful. He was proud — for a minute.",
+            "They worked for months, but the cousin never paid him. When Kevin asked, the cousin laughed it off, ignoring him. Kevin realized he had been wasting his time and the cousin had gained well, out of it. In a fit of frustration, Kevin burned the little book where he had recorded his dues. That fire felt like the last betrayal. Kevin watched the ash scatter in the wind and wondered if that’s what his life was"
+          ]
+        },
+        {
+          paragraphs: [
+            "— weightless, burnt, forgotten.",
+            "He didn’t understand the world anymore. The rules made no sense. Adults lied, promises meant nothing, and work didn’t always lead to reward. His heart sank deeper into solitude. The noise around him faded. He walked with his head down, shoulders slumped, eyes heavy with things he couldn’t name.",
+            "When schools closed, he still visited Marcus. But the visits felt hollow now. His old friends, with their crisp stories of boarding school — dormitory adventures, strict teachers, food struggles — they once thrilled him but now, they tormented him. Each story reminded him of what he didn’t have, of where he should have been. They sounded like fairy tales told to a starving boy.",
+            "And yet, he pushed through the year. Barely. He dragged himself to the end, fuelled by one dying ember — the hope that this would be the last time. That next year would be different. But as the third term closed and he returned to the shopping center for the holidays, there was no spark in his chest. No butterflies. No expectation. Just a quiet surrender. He wasn’t hoping anymore. Whatever came, would come. His heart was tired. Hope, once his only shield, had finally abandoned him."
           ]
         }
       ]
