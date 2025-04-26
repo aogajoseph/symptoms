@@ -1,4 +1,4 @@
-export const chapters = [
+  export const chapters = [
     {
       title: "Prologue",
       pages: [
@@ -595,25 +595,233 @@ export const chapters = [
       title: "Chapter 8",
       pages: [
         {
-          title: "Headache",
+          title: "Back to the City",
           paragraphs: [
-            "Headache, one of the most prevalent human ailments, encompasses a broad spectrum of disorders with diverse causes and clinical features. Primary headaches, including migraine, tension-type, and cluster headaches, are not attributed to another condition and typically follow characteristic patterns.",
-            "Secondary headaches result from underlying causes such as infection, trauma, vascular disorders, or increased intracranial pressure. These require identification and treatment of the underlying cause. The \"thunderclap headache\"—explosive, severe pain reaching maximum intensity within seconds—warrants emergency evaluation for life-threatening conditions like subarachnoid hemorrhage.",
-            "When evaluating headaches, clinicians consider the onset, location, quality, intensity, duration, frequency, aggravating and relieving factors, and associated symptoms. Neuroimaging may be indicated when headaches have atypical features or when they're accompanied by neurological symptoms, seizures, or signs of increased intracranial pressure."
+            "After the exams, the shopping center was the only place Kevin thought to go. A not only familiar thought but automatic. And for once, his father didn’t object. Maybe he knew that keeping him home would be like caging a bird already too bruised to sing. Kevin left quietly, without fanfare, and moved in with Brian. But the shopping center wasn’t the same anymore. It didn’t carry the thrill it had when Marcus was around. Back then, it had been their little empire of laughter and mischief. Now, it felt slow… and rural. Like a faded photograph of what used to be.",
+            "But nothing occupied Kevin’s mind like the city. It pulled at him relentlessly, like an old lover. He thought of it every day. He called his sisters, Joy and Beatrice often who still lived in that tiny two-roomed house they once shared as a family. They had daughters now, no stable income, but their hearts were big. They missed Kevin. They knew what he'd been through and were ready to take him in, even if it meant squeezing in tighter. They even offered to send bus fare. But they hesitated. Their father’s wrath was a shadow neither of them was ready to stir again."
           ]
         },
         {
           paragraphs: [
-            "\"Dizziness\" encompasses several distinct sensations often described differently by patients. True vertigo refers to an illusion of movement, typically a spinning sensation, suggesting dysfunction in the vestibular system. Lightheadedness or presyncope—the feeling that one might faint—often relates to cardiovascular causes or low blood sugar.",
-            "Disequilibrium, or unsteadiness when standing or walking, frequently stems from neurological or musculoskeletal disorders affecting balance. Non-specific dizziness may result from anxiety, hyperventilation, or medication effects, among other causes.",
-            "Associated symptoms help distinguish between these types and their potential causes. Vertigo with hearing changes suggests inner ear disorders, while dizziness accompanying chest pain, palpitations, or shortness of breath may indicate cardiovascular issues. Temporary dizziness with neck turning might represent vertebrobasilar insufficiency."
+            "Weeks passed. Kevin finally braved it and asked Brian for bus fare. Brian, caught between brotherhood and obedience, simply said, “Ask Dad.” So Kevin did. And the answer was no.",
+            "Their father had a vision: Kevin would take over the family businesses so Brian could return to the city and try his luck like Marcus and the others. A plan that, on the surface, looked promising. Kevin would finally be trusted, be in charge. Something he had never been. For a moment, the thought made his chest rise. But then the reality sank in like a stone — the businesses were failing. Customers were vanishing, as more people were relocating to towns and cities. Kevin saw what his father didn’t — that this plan was just another trap. Another way for him to rot silently in the village.",
+            "He became quieter and disconnected. He couldn’t relate to his classmates anymore, hadn’t spoken to them since school ended. The old friendships from the shopping center had also thinned out. Kevin, drifted, lost in thought, and depressed knew he needed a way out — a real way.",
+            "Then one quiet evening, an idea sparked in his mind like a rebellious flame — he would steal the bus fare. Not in one go. That would raise alarms. But slowly and carefully, over time."
           ]
         },
         {
           paragraphs: [
-            "Alterations in consciousness range from mild confusion to deep coma. These represent emergencies requiring prompt evaluation and often indicate serious underlying conditions affecting brain function.",
-            "Delirium—an acute confusional state with fluctuating course, inattention, and altered consciousness—commonly affects hospitalized patients, particularly the elderly. It may result from medications, infections, metabolic disturbances, or other medical conditions and carries significant morbidity and mortality.",
-            "Stupor refers to a state of near-unconsciousness with preserved response to painful stimuli, while coma involves unresponsiveness even to painful stimulation. Both require immediate medical attention to identify and address the cause, which may include toxic exposures, metabolic disorders, infections, or structural brain lesions."
+            "The next day, Kevin started working harder alongside Brian. He lifted crates with new energy, served customers with a straight face, and learned to account for every coin. But in the back of his mind, he was keeping a little for himself. A tiny, unnoticeable amount. Every day.",
+            "When he got a chance to work at the old, abandoned factory nearby — sorting through old furniture, broken machines, and wooden beams — he took it. The little pay he received became his alibi. If anyone ever asked where the money came from, he would have an answer.",
+            "Four months passed. Kevin had saved enough. Enough for the bus fare, a few snacks along the way, and probably some change. This time, when he approached Brian again, he didn’t ask for money. Just permission.",
+            "Brian, as usual, sent him back to their father. But this time, the old man said nothing. Just stared at him for a long moment and muttered, “Go if you must.",
+            "Everyone knew he wasn’t just visiting his sisters. He was leaving — escaping the village for good. They didn’t say it, but they knew."
+          ]
+        },
+        {
+          paragraphs: [
+            "The days that followed were golden. Kevin walked lighter. Smiled easier. Even the air felt kinder. On his last day in the village, he said goodbye to his stepmother, who silently handed him a chicken, on his father’s orders, alive, feet tied, flapping softly. A symbol of love and pride to the family members in the city. A village ritual. A way of saying, Kevin carries us with him. To his father. A nod. No words.",
+            "And finally, to Brian and his old friends at the shopping center, most of whom looked at him with admiration.",
+            "That night, before the dawn of his departure, Kevin barely slept. The chicken clucked softly in the dark. The silence around him was full of promise, fear, and freedom.",
+            "Tomorrow, he would be gone.",
+            "Kevin’s journey to the city wasn’t easy. It began in the quiet chill of the early morning. He rose earlier than usual, taking a cold bath that shocked his senses awake. He wore his best clothes, a faded jeans and a blue shirt, now grey. He’d kept them for special days. They were wrinkled, but clean, and in his mind, good enough for the adventure ahead. He packed his few belongings into a small, worn-out bag"
+          ]
+        },
+        {
+          paragraphs: [
+            "and picked up the box holding his chicken—his only companion, perhaps his only asset. Without a word, and without passing by Brian’s place, since they slept separately, Kevin stepped onto the old tarmac road, pocked with potholes, to wait for the early morning van that would take him to the nearest town.",
+            "The air was crisp. Time passed slowly, and Kevin began to feel uneasy. The van was taking too long. Just then, a familiar face appeared—a neighbour, pedaling toward him on an old bicycle. After a brief chat, Kevin’s heart sank. He had missed the van. It had already passed. There were only two options each day—the early one, and the afternoon one.",
+            "Kevin weighed his choices. Wait till afternoon or wake up even earlier the next day? But how would he explain still being around? Everyone had bid him farewell. He had already crossed the mental bridge of leaving. Staying felt like retreating. The man offered to take him to town on the bicycle, but it would cost more than Kevin had planned. The budget was tight. Really tight. Kevin didn’t answer immediately.",
+            "The man, seeing the hesitation and perhaps feeling a bit of pity, suggested something: take the bike"
+          ]
+        },
+        {
+          paragraphs: [
+            "ride to town and board a train instead of the usual bus—it was far cheaper. Kevin jumped on the idea and then jumped on the bike. If only he knew what awaited him.",
+            "They rode for hours, chatting about the city, about life, the countryside slowly giving way to hints of busier roads. Dust clung to Kevin’s clothes, his arms ached from holding the bag and the chicken box, but the conversation kept the mood light. By the time they reached the edge of the town, Kevin was exhausted. The man received his payment, a good sum for such a distance, and turned back. Kevin squeezed into a crowded van that would take him into the heart of the town, hopeful that the train would soon carry him the rest of the way.",
+            "But as they rolled deeper into town, Kevin realized he had never navigated this place alone. He had only been here once, with Marcus. After alighting, he learned that the train station wasn’t nearby. He needed a motorbike taxi to get there. That meant more money, which he didn’t have in plenty. Still, he was close. One last stretch.",
+            "The motorbike rider was an elderly man with a kind smile. He agreed to take Kevin to the train station. As they arrived, both were surprised by the emptiness. Something felt off. The old man offered to walk"
+          ]
+        },
+        {
+          paragraphs: [
+            "Kevin to the ticketing office to find out why the usually busy place was deserted. There, a lady shook her head. The trains had been grounded for months. Political skirmishes had seen gangs damage railway lines across the country, and no one had fixed them. Kevin and the rider looked at each other in silence.",
+            "For the second time that day, Kevin faced a crossroads. Go back to the village, or push forward somehow? The elderly rider advised him to go by bus instead. But Kevin was already down to almost half his money, and he still had to pay the rider. He did, reluctantly, and they rode back to the town’s bus station.",
+            "Kevin sat alone. His bag on his lap, the chicken beside him, tired and panting in the box with holes punched in it. He was hungry. It was almost midday. His smart look had long been ruined by dust and sweat. Still, he wasn’t going back to the village. That option had been completely erased from his mind.",
+            "He decided to gamble and boarded another van headed to a town near the city. The fare nearly emptied his pockets. He waited over an hour for the van to fill up, leaning on his bag, his mind in a fog. Hunger gnawed at him. The chicken flapped irritably below. Kevin stared out of the window, eyes half-open."
+          ]
+        },
+        {
+          paragraphs: [
+            "The van eventually started its journey. The city was still far. Then, disaster struck. Somewhere in the middle of nowhere, the van broke down. The driver and conductor tried to fix it but they couldn't. A mechanic was called, but hours passed before he arrived and evening was approaching. After a short inspection, the mechanic confirmed the worst—it needed towing.",
+            "The passengers grumbled but Kevin sat quietly. The driver refunded half the fare, and people scrambled to find alternative vehicles. Kevin, always a little too hesitant in such moments, was among the last. He finally got a spot in a private vehicle, but the fare demanded was higher than the refund. Kevin gave in, his remaining notes slipping from his hands. He arrived at the next town stranded—no money, no food, no idea how to proceed.",
+            "He spotted a public phoning station. A woman sat behind a small table, a phone icon painted above her. Kevin used the few coins left to call his sister’s number—one of the few he had memorized. But the call was poor. They barely spoke. She tried calling back, but the reception was terrible. He left, unable to waste more coins.",
+            "At the bus station, he sat quietly next to the vans leaving for the city. He stared blankly. The touts,"
+          ]
+        },
+        {
+          paragraphs: [
+            "energetic and loud, shouted for passengers. One of them approached Kevin, and when Kevin said he had no money, they left him alone. The sun dipped below the horizon. The evening turned darker.",
+            "Then, unexpectedly, one tout returned. He asked Kevin what was going on. Kevin explained. The man listened, then broke into a grin. \"Sell the chicken,\" he said. Laughter erupted around them. But to Kevin, it made sense.",
+            "The tout led him to a nearby restaurant. It belonged to a friend of his. They spoke in their local dialect for a while, then the owner turned to Kevin and asked, \"How much for the chicken?\"",
+            "Kevin hesitated. He had no answer. A small crowd gathered—some laughing, others just watching. One man proposed that the restaurant pay whatever amount Kevin needed to get to the city for the chicken. The restaurant owner nodded. The money was handed to the tout directly. Kevin didn’t argue. This was a blessing.",
+            "He climbed into the van with only his bag now. The chicken was gone—but it had earned him the most valuable ticket of his life. What no one realized was that Kevin still needed money to get from the city"
+          ]
+        },
+        {
+          paragraphs: [
+            "to their estate. Even Kevin himself forgot.",
+            "The van took time to fill. It was already late in the evening. Hours later, they arrived in the city. It was unfamiliar, busier, louder, and more expensive. He hadn’t been there in years. Transport from town to his their estate now cost more and he didn’t have it.",
+            "But Kevin had no energy to wait. He decided to board anyway, hoping his few coins would somehow be enough. The van started moving. A few minutes in, the conductor came collecting fares. Kevin handed all he had. It wasn’t even half the required amount.",
+            "The conductor exploded furiously. The driver pulled over. They shoved Kevin out onto the roadside. His cheap bag landed beside him with a thud. The van sped off.",
+            "It was late at night and Kevin stood there, in the glow of streetlights. Vehicles whooshed past, the city alive in its night rhythm. He looked around, confused, defeated—and then, a flicker of realization. He knew this place. It was the neighboring estate. A ten-minute walk to their house."
+          ]
+        },
+        {
+          paragraphs: [
+            "Kevin could hardly believe it. After everything. The train, the chicken, the darkness, the embarrassment, he was here. It felt like he had travelled for days.",
+            "Ten minutes later, a dusty Kevin knocked on the door. His sisters flung it open, their worry melting into joy. Tears, laughter, and embraces.",
+            "They didn’t ask questions. Not yet. One of them rushed to warm some water for his bath. Another served food—a real meal. Kevin ate in silence, his hands trembling. When he was done, they showed him where to sleep.",
+            "That night, Kevin slept like one who had conquered the world.",
+            "Kevin woke up the next morning feeling better. His body had started to recover from the ordeal of the previous day, and there was a hint of hope nestled somewhere deep inside him. But the city, oh, the city, it had changed. It wasn’t the same place he had longed for during all those years in the village. It didn’t smell the same, didn’t sound the same. It didn’t feel like home anymore."
+          ]
+        },
+        {
+          paragraphs: [
+            "Their old two-roomed house, the one that used to throb with shared laughter and youthful chaos, was now split—literally. A thin board now divided the house into two separate living quarters: one side belonged to their eldest sister, the other to Joy and Beatrice. It was the only way to make life somewhat livable after attempts at mutual understanding had failed and grown cold. The split felt physical and symbolic to a crack in the very heart of the family.",
+            "Outside, the landscape of Kevin’s childhood had been swallowed whole. Where there used to be open spaces, dusty paths, and kids screaming joyfully into the dusk, stood a sprawling maze of wooden and corrugated iron structures. Their once modest but respectable estate had collapsed into a crowded, chaotic slum. The proud echoes of childhood were muffled by the sound of makeshift hammers and tin roofs.",
+            "Still, Kevin wandered. He walked through the place like a ghost chasing memories. The fields where he had played football with the neighborhood boys were now full of shacks, every square inch claimed by the hands of desperation. The drainage was terrible. Whenever it rained, water didn’t flow, it collected. It puddled in corners and across paths, mixing with mud and waste. Sometimes, kind-hearted slum"
+          ]
+        },
+        {
+          paragraphs: [
+            "dwellers would line up stones to help others hop across the mess. It was sweet, in a way, the effort people made to maintain a shred of dignity amidst decay. He visited his old city school too, the place he had once worn his uniform with pride, laughing with friends and raising his hand eagerly in class. But now he could only watch it from the gate like a stranger. The askari politely told him visitors weren’t allowed. He understood, but it hurt. The institution that helped shape him had no idea who he was anymore.",
+            "Kevin tried reaching out to old classmates. Some phone numbers worked and a few responded. But most had moved on. Some were parents now. Others were grinding through college, running businesses, or simply caught in the hustle of daily life. Their messages came back brief, rushed, polite but distant. Kevin realized he was the only one still stuck in a dream of the past, thinking he could return to the city and pick up where he’d left off. Everyone else had grown beyond those days but he hadn’t. He didn’t even know how. It made him seem childish, perhaps even delusional, but to him, it was just longing, a desperate attempt to fill a yawning emptiness caused by years of absence, years of yearning."
+          ]
+        },
+        {
+          paragraphs: [
+            "At home, the emotional terrain was just as complicated. Every time he returned, he had to decide: which door to enter? The one leading to his eldest sister’s section, or the side where Joy and Beatrice stayed? Given their painful history with his eldest sister, Kevin leaned toward Joy and Beatrice. But that didn’t mean the choice was easy. During mealtimes, both sides would cook for him, anticipating his presence. Choosing where to eat was a subtle war, and Kevin hated it. He wished he could slice himself in two and be present in both places at once. He didn't like the eldest sister’s sharp tongue or her cold way of talking, but seeing her live in isolation gnawed at him. So, he would visit her occasionally, just to ease her loneliness, and to soften the lines of a rivalry that was threatening to harden forever.",
+            "Days turned into weeks, and Kevin found himself disturbed by his joblessness. His sisters were clearly struggling to stay afloat, and Kevin was beginning to feel like dead weight. He wanted to contribute. But what could he do? Jobs were scarce. The city was overflowing with people like him—hungry, determined, and stuck.",
+            "One day, a neighbor who had known Kevin since he was a boy greeted him warmly. They chatted a few"
+          ]
+        },
+        {
+          paragraphs: [
+            "times, and eventually Kevin admitted he was looking for something—anything—to do. The man, a matatu tout, offered to take him to the city center where he worked. Kevin agreed, hopeful. He was introduced to a group of junior touts, boys who stood on street corners yelling destinations at the top of their lungs, luring passengers into half-empty buses. For every bus Kevin helped fill, he got a few coins. Not enough. Definitely not worth the time or the effort. Slowly, the street life began to wear on him. The other touts, older and tougher, had their rituals. When they earned a little money, they’d sneak off to a nearby corner joint for a cheap drink. They called it “energizing.” Kevin eventually joined them. He didn’t think much of it—it seemed harmless, a way to stay part of the crew, a brief escape from the hunger and heat and hopelessness.",
+            "Weeks later, he tried hawking clothes. It seemed better at first. He’d walk through busy markets and city outskirts, selling second-hand shirts and trousers. But the earnings depended on sales, and few people were buying. The sun would burn, rain would drench, and Kevin would keep going, shoes soaked, shoulders aching, chasing invisible customers. After some months, he quit.",
+            "Then came a job manning a water-selling joint owned by a friend of one of his sisters. It opened at 7am"
+          ]
+        },
+        {
+          paragraphs: [
+            "and closed at 9pm. Kevin was paid a dollar a day. One dollar. But he had no choice. He needed the work. He showed up on time, every day. Until one day, as he was arranging water jerrycans, he saw someone across the road—Florence. His old desk mate from the city school. She was walking by and stopped when she recognized him. Her eyes lit up. She crossed the road to say hello, delighted. But Kevin froze. He wanted to disappear. Seeing Florence was like seeing himself in a mirror and merely a version of himself from the life he had lost. He mumbled a few things, forced a smile, then quickly turned away, ashamed. He didn’t want her to see him like that, a water boy on a dusty street corner.",
+            "Joy and Beatrice kept trying. They saw his effort, admired how he still dreamt even when there was little reason to. They connected him with more work when they could. A childhood friend from next door got him a spot in a galvanising plant in the industrial area. Kevin joined a crew of sweaty young men who unloaded rusted metal from trucks, passed it through galvanising tanks, and loaded it again. The work was hard. Too hard. His back hurt, his arms throbbed, and the smell of chemicals clung to his skin long after he got home. The pay was a joke. They often had to walk home and split their lunch to save a few shillings. But Kevin kept at it. He even managed to buy a cheap phone for his father and stepmother and sent it to them in the village. That one small gesture filled him with a rare sense of"
+          ]
+        },
+        {
+          paragraphs: [
+            "pride.",
+            "Then, one week, the company said they didn’t need workers anymore. Just like that. No reason, or warning. Kevin was back home again, jobless. He remembered a petrol station they used to pass by after work. The attendants always looked neat and relaxed. Their job seemed easier, the pay probably better. Kevin began to long for such a job. But how? He didn’t know anyone there, didn’t even know how to ask.",
+            "A few days later, he learned that a neighbor cleaned fish at a market nearby. Kevin asked if he could help out. The man agreed, seeing something in Kevin—a fire maybe, or a purpose. Kevin showed up on his first day at 5am, in the rain. The stench of fresh fish mixed with mud and garbage made his stomach churn. The market was a chaotic mess, but Kevin stayed. He needed the job.",
+            "But by the end of the week, trouble brewed. A group of young men who had been around the fish store for years weren’t happy. Kevin had jumped the queue. Traditionally, newcomers started with errands—hauling crates, sweeping the floor, doing whatever needed doing. Then, slowly, you’d be allowed to clean fish. Kevin had skipped those steps. He wasn’t aware of the politics or state of affairs. All he knew"
+          ]
+        },
+        {
+          paragraphs: [
+            "was that he needed work. But these boys didn’t like that. They murmured, frowned, whispered to the boss. By the week’s end, Kevin was told he couldn’t come back.",
+            "Days followed like shadows—silent, heavy, and long. Kevin had been in the city for over one year. He would sit outside, staring into nothing. Was this the city he had dreamt about for years? No one spoke of school or college anymore. Everyone was just trying to survive. And now, so was he. The idea of returning to the village, something he had rejected so fiercely, began to make sense. He had nothing left here. But even that decision wasn’t simple—he didn’t have the fare.",
+            "One evening, Kevin sat quietly on the verandah, knees pulled up to his chest, staring at the dusty path outside the house. People passed. Children laughed in the distance. But inside him, there was a silence. He thought of calling a distant relative to ask for a loan. Just enough for fare. He would repay it when he got home, somehow. He didn’t know how long he sat there. But that evening, something in him shifted. Not broken—just tired, deeply tired, and in search of a new beginning, even if it meant returning to the village.",
+            "The week that followed felt like divine timing. A man named Frank, a longtime friend of Kevin's father,"
+          ]
+        },
+        {
+          paragraphs: [
+            "visited their home. Kevin didn’t recognize him—he had been too young when Frank used to visit—but Frank remembered Kevin. He sat and caught up with Kevin and his sisters like an old uncle coming home. Curious, he asked Kevin what he was doing with his life. Kevin shared honestly—he had tried his hand at many things in the city and failed. He was preparing to return to the village.",
+            "Frank paused, then asked a strange question. “Do you know that petrol station near the industrial area?” Kevin nodded in surprise—it was the very one he used to admire from a distance back when he and his friend walked by, jobless and dusty. Frank smiled knowingly and said, \“Go there next week. There'll be a slot secured for you.\”",
+            "Kevin was stunned. It came at a time when he had nothing left. He said a silent prayer of gratitude that night and made one heartfelt request: “Just give me two years, Lord—two years to fix my life.” But he didn’t know then that life was preparing to test the very fabric of who he was.",
+            "True to Frank’s word, Kevin reported the following week, clean and sharply dressed, to the very station he had once admired. It felt surreal. For once, he had something that resembled a real job. The environment was calm, the routine manageable, and the pay, though modest, was decent. But two"
+          ]
+        },
+        {
+          paragraphs: [
+            "months in, he discovered a darker side—fraud. And not isolated fraud, but an institutional one—something everyone was involved in.",
+            "Kevin hesitated briefly, but the temptation won. He justified it—he had suffered long enough, and here was his break. The mistake wasn’t just in participating. The biggest mistake was his mindset: he believed the job was permanent. He forgot his prayer, and the two years he had asked for. He got comfortable, sinking into a rhythm of shifts, cash, and quiet complicity.",
+            "Soon, he found himself in the company of colleagues who spent their evenings in bars and places better left unnamed. Kevin started joining them occasionally… then regularly… then always. To him, it was a long overdue release. After years of hardship, he was finally \“living.\”",
+            "Old schoolmates began reappearing—those who once mocked him or never noticed him. Now, they befriended him. Kevin didn’t ignore them, but there was a subtle contempt in how he engaged. It wasn't intentional though—he just felt like he had finally proven them wrong. But they mistook it for arrogance and spoke ill of him behind closed doors. Kevin didn’t care. He thought he was winning."
+          ]
+        },
+        {
+          paragraphs: [
+            "New clothes, new shoes, loud nights, and the freedom Marcus once boasted of… now it was his. But he forgot—this wasn’t his company, just a job. A job that could end at any time. Some coworkers watched him in silence, wondering how someone could live so recklessly.",
+            "Despite his wild living, Kevin never forgot his family. He sent money home regularly, proud of being able to support his father and step-family. He ensured his sisters lacked nothing. In those moments, he felt responsible, even fulfilled. But deep down, he knew something was missing—direction. His life was still floating. He no longer thought about education. This job had convinced him it wasn’t necessary.",
+            "One evening, Kevin walked into a supermarket and came out carrying two loaded shopping bags. It was his way of appreciating Frank—the man who opened the door for him. This wasn’t the first time, nor would it be the last. At Frank’s house, he handed the gifts quietly. Frank received them with warm gratitude, then said something Kevin never forgot:",
+            "\“You have a pure heart, Kevin. I’ve helped many men, even some of your colleagues, but none ever came back to say thank you like this.\”"
+          ]
+        },
+        {
+          paragraphs: [
+            "Kevin simply smiled. He was not one to talk too much. Frank, in return, promised him something better—another job, higher-paying, in a few months. That promise ignited a dangerous optimism in Kevin. He now spent more freely, believing a better opportunity was on its way. He clung to that promise like it was already his.",
+            "In their block lived Elisha, a bachelor who worked at an NGO. His one-room house was a dream—tidy, modern, with expensive electronics. Kevin admired his life. Elisha hosted different women every weekend, and his stereo made the block vibrate with music. Kevin had visited him a few times before getting his job. Now, he dreamed of living like him. But with his sisters around, that dream wasn’t possible. He needed his own space.",
+            "Soon, girls began to notice Kevin. Some were drawn to his new status, others to the praises whispered about him. But one stood out—Elsie. She was beautiful and troubled, and in a toxic relationship with an older man. Kevin admired her from afar, then one day, gathered the courage to approach her. Sweaty and nervous, he confessed his feelings. To his surprise, she smiled, and gave in.",
+            "But Kevin was naïve in love. He invited her to a friend’s house for a date, but his awkwardness betrayed"
+          ]
+        },
+        {
+          paragraphs: [
+            "him. Elsie was disappointed, yet gave him another chance. Then her boyfriend called during one of their meetups and Elsie, after a brief argument, handed the phone to Kevin to assert himself but he froze. He was visibly shaken and couldn’t speak. Elsie was done.",
+            "\“You’re good, Kevin… but too childish.\”",
+            "It cut deep through him, but he couldn’t argue. She was right.",
+            "A month later, Elisha shared something with Kevin—a plan to travel abroad. There were endless opportunities, he said. A new life. But the cost of settling there was significant. Not too significant for Kevin though. He could raise it in a week. Two shifts, maybe.",
+            "He was tempted. For a moment, he saw himself leaving everything behind. But then he remembered Frank's promise. Frank had delivered once. Maybe he would again. And so, Kevin chose to stay and wait on Frank’s new job. Furthermore, he thought he was too young to live abroad all by himself.",
+            "A few weeks later, as Kevin was still settling into his new routine, another neighbour came by. He sat"
+          ]
+        },
+        {
+          paragraphs: [
+            "with Kevin outside, on a wooden bench, and spoke with casual concern, pointing out the iron sheet and wooden structures filling up their estate—quick rental units that were now bringing in steady cash for a few residents. The man encouraged Kevin to try building a few of his own, even just two units. “With your income, you can start small,” he said. But Kevin laughed it off. It was too big a step, too adult. Besides, what kind of landlord would he be at his age? Would people even pay rent or would he spend all his time chasing tenants like a frustrated caretaker? He dismissed the idea.",
+            "In truth, opportunities often sought Kevin out. They seemed to walk right toward him, but he always had a reason to push them away. Fear, doubt, and a nagging sense of unworthiness made him reject things he would later regret not embracing.",
+            "Eventually, he moved out of the house again. He tried to model his life after Elisha, copying the lifestyle down to the smallest detail—moving to new places, buying expensive things, behaving like someone who had it all together. But the magic didn’t follow him. He moved houses again, even a third time, buying new furniture and electronics. He hoped the lifestyle would mask the emptiness, but it only amplified it."
+          ]
+        },
+        {
+          paragraphs: [
+            "Then came a spark. One day at work, he learned that a colleague he often drank with had quietly enrolled in a management course. It made Kevin pause. He remembered Frank’s relative who had once mentioned that freight jobs were easy to get—even without a full diploma, just a transcript could open doors. Those words stuck. Without further thought or planning, he walked into a local college and signed up for a freight course. “With Frank’s promise and his relative’s hint,” he told himself, “I’ll be okay.”",
+            "He started attending classes during his off days. Six months in, he proudly earned his transcript—his performance was good. He tried to reconnect with Frank’s relative, but the man grew cold, avoided the topic, and dodged meetings. Kevin was hurt. Still, he couldn't quit now. He began applying for jobs on his own and landed three interviews. Each time, he was told he needed to finish the full course. And he still had another year to go.",
+            "Back at college, he met peers who drank and smoked, some even more than he did. With less supervision and more freedom, Kevin slipped easily back into indulgence. This time, he had his own money and his own space. He partied freely but still managed to perform well at work and pass his"
+          ]
+        },
+        {
+          paragraphs: [
+            "exams.",
+            "Then, out of nowhere, came the shake-up.",
+            "One morning, as their shift was beginning, luxury cars rolled into the station. Men and women in sharp suits stepped out and ordered everyone to stop operations. They were from the head office. Rumors of fraud had reached them, and they had come to \"clean the house\". The entire station team was dismissed on the spot. Kevin was among them.",
+            "He was devastated. But the company allowed them to reapply. Desperate, Kevin visited the head office the next week. He was lucky—they took him back but posted him to a rural station, far from the city. He had no choice.",
+            "He packed up his life, sold and stored his things, and boarded a bus to a town he’d never been to.",
+            "The transition was tough. The small town was quiet, slow. There were no bars buzzing late into the night, no thrills. The job came with longer hours, stricter rules, and a leaner paycheck. His spirit began"
+          ]
+        },
+        {
+          paragraphs: [
+            "to dim. He tried to reach Elisha—now permanently abroad—but Elisha couldn't help anymore, and even if he did, Kevin couldn't raise the funds. He turned to Frank, but the job Frank had promised wasn't ready yet. Kevin spiraled. The depression crept back in.",
+            "After eight months of quiet struggle, Frank finally came through and found him a new posting back in the city. Kevin returned like a prodigal son—tired, broken, and with nothing but the desire to start again.",
+            "He moved in with Beatrice, as Joy had gone to live with the father of her child. But not long after, Beatrice got a job with an NGO and relocated to housing provided by her employer. Kevin was alone again—one room to himself and no direction. His eldest sister still on the other side.",
+            "He returned to college, not with hope, but with obligation. He wanted to finish for the sake of finishing. His new station also had some fraud, but not like before. The salary was decent, and he tried saving, but constant calls from his father asking for money kept draining his efforts. His own life had no clear plan. He worked, studied, went home—and often lost track of the days. Oftentimes, he didn’t know the date or day of the week it was. He didn’t even know his age, he had to calculate from his year of birth"
+          ]
+        },
+        {
+          paragraphs: [
+            "each time he thought about it. His habits worsened. He brought random girls home. He drank more. Smoked more. He looked fine, but something inside him was deeply off.",
+            "Eventually, his eldest sister moved out too. With both rooms now his, Kevin slipped back into the image of Elisha he had so long admired. He bought expensive furniture, gadgets, clothes—but none of it filled the hole. Then Marcus, his beloved brother, lost his job and needed somewhere to stay. Kevin welcomed him with open arms.",
+            "Living with Marcus brought both joy and shame. Kevin continued indulging in secret, though Marcus eventually found out. He never said anything. But seeing Marcus struggle broke Kevin’s heart. When Marcus began hawking bread, it shattered Kevin completely. He pulled together all the savings he had and gave it to Marcus. Beatrice added her share. Marcus left for abroad soon after and stayed there.",
+            "Kevin, now truly alone, fell back into freedom and fantasy. Drinking. Smoking. Living recklessly. He had no guidance, no plan, and no compass. He was drifting—and didn’t even realize it.",
+            "From the outside, Kevin looked okay. He had a job. A house. Clothes. Some charm. But inside, he was"
+          ]
+        },
+        {
+          paragraphs: [
+            "rotting. His lifestyle had become a collection of symptoms—of a soul long deprived of real presence, a heart cracked by disappointments, a mind burdened by false starts and silent comparisons. He didn’t know who he was. He was chasing shadows—of Elisha, of Marcus, of the man he thought he could be—but never fully becoming any of them. He was lost.",
+            "Not because he lacked the potential, but because he never truly understood his worth, his path, or his purpose."
           ]
         }
       ]
