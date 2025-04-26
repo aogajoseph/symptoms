@@ -830,25 +830,238 @@
       title: "Chapter 9",
       pages: [
         {
-          title: "Headache",
+          title: "Early Adulthood",
           paragraphs: [
-            "Headache, one of the most prevalent human ailments, encompasses a broad spectrum of disorders with diverse causes and clinical features. Primary headaches, including migraine, tension-type, and cluster headaches, are not attributed to another condition and typically follow characteristic patterns.",
-            "Secondary headaches result from underlying causes such as infection, trauma, vascular disorders, or increased intracranial pressure. These require identification and treatment of the underlying cause. The \"thunderclap headache\"—explosive, severe pain reaching maximum intensity within seconds—warrants emergency evaluation for life-threatening conditions like subarachnoid hemorrhage.",
-            "When evaluating headaches, clinicians consider the onset, location, quality, intensity, duration, frequency, aggravating and relieving factors, and associated symptoms. Neuroimaging may be indicated when headaches have atypical features or when they're accompanied by neurological symptoms, seizures, or signs of increased intracranial pressure."
+            "One mid-morning, as Kevin and Sam—one of his closest college friends—stepped out for a quick drink, something they often did between classes, the conversation took an unexpected turn. They laughed as they sipped their cheap liquor, the usual banter flying between them, until Sam casually mentioned, \“By the way, I came by your estate the other evening to see you… but you weren’t home.\”",
+            "Kevin blinked, slightly surprised. \“You did?\”",
+            "\“Yeah,\” Sam nodded. \“I didn’t find you, but I found a girl. She lives right next to your house. Pretty, quiet type. We talked a bit.\"",
+            "Kevin raised an eyebrow. \“A girl?\"",
+            "\"Yeah. She said she didn't know your name until I described you. Said you're always passing by but never talk. Bro, how do you not speak to your neighbors? Especially young girls like her at your age?\” Sam laughed in disbelief."
           ]
         },
         {
           paragraphs: [
-            "\"Dizziness\" encompasses several distinct sensations often described differently by patients. True vertigo refers to an illusion of movement, typically a spinning sensation, suggesting dysfunction in the vestibular system. Lightheadedness or presyncope—the feeling that one might faint—often relates to cardiovascular causes or low blood sugar.",
-            "Disequilibrium, or unsteadiness when standing or walking, frequently stems from neurological or musculoskeletal disorders affecting balance. Non-specific dizziness may result from anxiety, hyperventilation, or medication effects, among other causes.",
-            "Associated symptoms help distinguish between these types and their potential causes. Vertigo with hearing changes suggests inner ear disorders, while dizziness accompanying chest pain, palpitations, or shortness of breath may indicate cardiovascular issues. Temporary dizziness with neck turning might represent vertebrobasilar insufficiency."
+            "Kevin had no response. He hadn’t even thought about it. Come to think of it, he had seen the girl Sam was describing—cute, reserved, often hanging clothes outside or walking with a small child on her back. They’d exchanged quick greetings occasionally, but he’d never asked her name. Never asked anything at all. He lived his life in a shell, and it never occurred to him.",
+            "Curious, and maybe feeling a strange challenge in Sam’s words, Kevin decided that he would speak to her when he got home. He hadn’t prepared what to say—just walked over, greeted her, and to his surprise, she smiled widely and engaged him openly. Her name was Mary.",
+            "To his even greater surprise, she agreed to visit his house that very same day. She followed him to the small two-room house he called home. It baffled him. It was almost too easy. Mary seemed open, warm, and oddly comfortable—as though she had been waiting for this moment. What Kevin didn’t know was that Mary had been silently admiring him from afar. His quiet nature, his commitment to his job, his steady college routine, the fact that he lived alone and seemed disciplined—it was everything she had ever dreamed of in a man.",
+            "But behind her soft voice and calm demeanor was a story layered in trauma and tragedy."
           ]
         },
         {
           paragraphs: [
-            "Alterations in consciousness range from mild confusion to deep coma. These represent emergencies requiring prompt evaluation and often indicate serious underlying conditions affecting brain function.",
-            "Delirium—an acute confusional state with fluctuating course, inattention, and altered consciousness—commonly affects hospitalized patients, particularly the elderly. It may result from medications, infections, metabolic disturbances, or other medical conditions and carries significant morbidity and mortality.",
-            "Stupor refers to a state of near-unconsciousness with preserved response to painful stimuli, while coma involves unresponsiveness even to painful stimulation. Both require immediate medical attention to identify and address the cause, which may include toxic exposures, metabolic disorders, infections, or structural brain lesions."
+            "Mary had grown up surrounded by hardship. Her mother had a daughter from a previous relationship, then met Mary’s father and had two more daughters—Mary and her younger sister. They were poor. Her father was an alcoholic who fought constantly with her mother. The older daughter was never accepted by Mary’s father, and the tension was unbearable.",
+            "Eventually, the mother sent her first daughter away to live with her grandmother, hoping that would fix things with Mary’s dad. It didn’t. The drinking continued, the violence persisted, and soon, Mary’s mother gave up and returned to her own mother’s home—this time with Mary and her younger sister.",
+            "Mary was just a child, but already her life was shaped by rejection. At her grandmother’s, her mother, likely hardened and bitter from her own experiences, began resenting Mary and her younger sister. She showed favoritism toward the eldest daughter, who now thrived in the village homestead, embraced and loved by extended family. Meanwhile, Mary and her sister grew up deprived—of affection, attention, and even basic care.",
+            "School started late for Mary. She was supposed to begin early but ended up delaying for over six years. She struggled academically and socially. By the time she finished school, all her mother cared about"
+          ]
+        },
+        {
+          paragraphs: [
+            "was her getting married. That’s how Mary found herself in the city for the first time—sent to help her cousin, Kevin's neighbour, with chores and babysitting.",
+            "Kevin, on the other hand, was a different world altogether. A city boy with a broken past. He had always imagined village girls as distant beings—good to smile at maybe, but not to date. Let alone marry. Kevin’s and Mary's tribes also had long-standing rivalries, but that didn’t matter to Kevin, then. He didn’t take the relationship seriously.",
+            "Mary, though, did. Very seriously.",
+            "To her, Kevin was it. The man of her dreams. The man who could rescue her from a life she never wanted. She saw stability in him. Safety. Her whole being clung to that idea. She would give him everything.",
+            "Kevin, meanwhile, was broken in his own way. He had never loved anyone else since Elsie. And had never been in a serious relationship all his life. After Elsie left, he shut off emotionally. His coping was through detachment, through having multiple girls like his neighbour Elisha did. He didn’t want love."
+          ]
+        },
+        {
+          paragraphs: [
+            "He didn’t believe in it anymore.",
+            "But there he was, sitting in Mary’s cousin’s house, one day, feeling a little awkward. He hadn't wanted to come, but she had insisted. He sat on a small stool as Mary served tea. Her cousin’s child played noisily beside them, and the air was thick with unspoken expectations.",
+            "Then, Mary looked at him and asked, “Kevin, will you marry me?”",
+            "He blinked. He felt the air freeze.",
+            "“Marry you?” he echoed, heart pounding.",
+            "“Yes,” she said simply, her eyes searching his. “I think we should.”",
+            "It was the most direct question he had ever been asked in his life. His mind swirled. Marriage? With this girl he barely knew? He didn’t love her. Not even a little. He wasn’t even sure why he kept seeing her. But there was something about her vulnerability, her sincerity, the desperate hope in her eyes. It reminded him of his own pain, of being rejected, of being unwanted."
+            
+          ]
+        },
+        {
+          paragraphs: [
+            "He found himself nodding. “Yes… okay.”",
+            "The words came out before he could process them. And just like that, something was sealed.",
+            "But deep inside, a storm began.",
+            "Kevin had always been terrible at making decisions. He let emotions lead him more than reason. He pitied people deeply, especially those who reminded him of his own suffering. His yes wasn’t out of love—it was out of empathy, guilt, maybe even curiosity. Worse, he was hooked to drinking, smoking and marijuana. His thoughts were foggy, and life had left him with no compass. No guidance or direction.",
+            "He didn’t even know what marriage meant.",
+            "As Mary smiled at his answer, Kevin felt a heaviness inside—a quiet dread. A question echoed within him:",
+            "\"What did I just agreed to?\""
+          ]
+        },
+        {
+          paragraphs: [
+            "Mary's visits to Kevin’s house became more frequent. What began as short afternoon stops soon turned into long hours, lingering evenings, and eventually overnight stays. She stuck around, did laundry, cleaned, and cooked as though the house were hers. Her familiar presence began to raise eyebrows, especially with her cousin and her cousin’s husband who lived next door. The line between guest and resident had blurred.",
+            "Her cousin grew deeply uneasy. She’d heard neighbors whisper and saw the way Mary had begun walking around the estate like she belonged. She didn’t like it. One evening, she sent her husband over to Kevin’s house. The man came with stern eyes and folded arms, standing tall in Kevin’s doorway, his voice firm. “This isn’t right, Kevin,” he said. “You’re taking advantage of Mary and you need to stop it, before it’s too late.”",
+            "Kevin took in the warning with quiet nods. But inside, he was spiraling. What was he supposed to do? He had promised Mary he’d marry her. She had taken his acceptance too seriously and seemed to be rushing things. But this... this wasn’t what he had wanted.",
+            "Mary, on the other hand, was unfazed by her cousin’s intervention. In fact, she became more defiant."
+          ]
+        },
+        {
+          paragraphs: [
+            "She still helped with the chores and the baby, but she practically lived at Kevin’s now. She had her own spare key, moved freely in and out, even when Kevin wasn’t around. The estate began buzzing with gossip.",
+            "Feeling out of her depth, the cousin finally informed Mary’s mother. The news reached the village like wildfire. Mary’s mother erupted in fury, screaming through the phone, “Pack your things! Come home this instant!” The rage in her voice was the sound of both shame and disappointment.",
+            "Back in the village, Mary was met with more than just scolding. She was met with hatred. They branded her a fool, a disgrace—a girl who had gone to the city and lost herself to men. She was treated like an outcast, her name spat out like poison.",
+            "From the quiet corners of the homestead, Mary would call Kevin. Her voice would tremble as she told him about the humiliation, the insults, the cold stares. Kevin listened in silence, smoking and drinking more than ever. He pitied her. He pitied himself. And most of all, he had no idea what to do.",
+            "Then came the call that shattered what little peace he had: Mary was pregnant. Kevin felt the world"
+          ]
+        },
+        {
+          paragraphs: [
+            "vanish beneath his feet. His chest tightened. A dark, endless hole opened in his mind. Mary’s voice was desperate, “I can’t stay here. I want to be with you. Forever.” But Kevin was drowning.",
+            "He locked himself in his room, didn’t eat, barely spoke. The marijuana became a crutch he couldn’t let go of. He remembered his sisters—how their lives had fallen apart after being abandoned by men. He had once promised himself never to be like those men. Never. But now, here he was.",
+            "His mind replayed his childhood: the struggle, the absence of a father figure, the void his mother left, the pain of a broken family. He had always wanted to be better. To be the best dad. But he didn’t love Mary. Not like that. He wasn’t ready. His older brothers, Marcus and Brian, weren’t even married. How could he be?",
+            "Sleep abandoned him. Whether on night shift or back home, his eyes were bloodshot and hollow. His skin was dull. His soul tired. He couldn’t talk to anyone—he had no words, just noise in his head.",
+            "Then one night, around 2 AM, he sat up, numb, and typed a message he’d stared at for hours: You can come."
+          ]
+        },
+        {
+          paragraphs: [
+            "It was cold. It lacked feeling. But he sent it.",
+            "Mary read it. Her heart sunk. She saw through the message. There was no excitement. No welcome. No love. Just resignation. But what choice did she have? Back in the village, she was suffocating.",
+            "She packed quietly. No one said goodbye. No one helped her carry her bags. Her cousin barely looked at her when she arrived in the estate—now her neighbor. Mary had never felt so invisible.",
+            "Kevin didn’t even come to meet her. He didn’t offer a hug, or a smile, or a kind word. She tried to make conversation, but he would sit in silence, hours at a time, pretending not to hear her. When she cooked, he barely touched the food. When she cleaned, he didn't notice. When she laughed, he didn’t laugh back.",
+            "Mary felt like a stranger in what should’ve been her home. One day, while cleaning, she found a small stash of marijuana in Kevin’s drawer. She was stunned. She confronted him, expecting him to explain or apologize. But Kevin only shrugged. His eyes said, I don’t care. And somehow, you don’t matter."
+          ]
+        },
+        {
+          paragraphs: [
+            "Mary apologized. For what, she didn’t know. Maybe for being there. For loving someone who didn’t love her back. Kevin kept smoking, only now more secretively. He dropped out of college. He stopped talking to his friends. Even Sam.",
+            "In his quiet world, Kevin thought he was hiding everything well. But rumors were louder than he imagined. People talked about him and his “wife” with pity, sometimes mockery. It hurt. He hated that people knew. That people assumed. That he had, without meaning to, become a husband. He ended up with an image he had never imagined for himself.",
+            "His family eventually found out—but not from him. They heard through whispers, through the backdoor of shame.",
+            "Then, one evening after work, Kevin came home to a quiet house. Mary was sitting on the edge of the bed, her face pale. “Kevin,” she whispered. “I lost the baby.”",
+            "Kevin stood still. His heart should’ve broken. But instead, it lifted. He felt relief. Unexplainable, yet undeniable. The bond, the chain, the guilt—it was finally broken. Or so he thought."
+          ]
+        },
+        {
+          paragraphs: [
+            "He looked at Mary and felt anger. “You lied, didn’t you?” he snapped. “You were never pregnant in the first place, were you?” Mary broke into tears, but Kevin had already convinced himself it was all a trap.",
+            "But Mary had made up her mind. She wasn’t going back. Not to the village. Not to shame. Not to the life waiting for her there. Everyone already believed she was married. She had burned her bridges, and now this was her only path.",
+            "Kevin tried talking to her. Softly at first. “Mary, this can’t work.” But she stayed. So, he began treating her worse. Cruel comments. Cold shoulders. Days of silence. She smiled through it all, her heart bleeding inside. Sometimes, Kevin would be gentle for a few days, and Mary would think he was changing. But it never lasted.",
+            "When she packed her things, determined to leave, Kevin would crumble. He would imagine her walking the long road back to the village. Alone. Humiliated. He couldn’t bear it. He would ask her to stay. Talk her into it. Promise to do better.",
+            "She’d stay. She’d cry. He’d comfort her. And then the cycle would begin again."
+          ]
+        },
+        {
+          paragraphs: [
+            "Kevin was stuck in a loop. He didn’t want her. But he couldn’t let her go. He feared the shame. He feared the judgement. But most of all, he feared what he had become.",
+            "Eventually, something shifted.",
+            "His father’s businesses in the village had gone under. The old man was constantly calling, asking for money. Kevin, despite everything, still felt the burden of duty. He needed to help. He needed to find a way.",
+            "So one afternoon, after months of torment and silence, he looked at Mary and said, “We’re moving to another estate.”",
+            "She blinked in confusion. “Why?”",
+            "“I’ll rent this place out,” he said. “The money will go to my father.”",
+            "He didn’t mention that he also wanted a fresh start. Away from judging eyes. Away from neighbors who knew the full story."
+          ]
+        },
+        {
+          paragraphs: [
+            "And so, they packed up. Left quietly.",
+            "But nothing about this move was peaceful. The wounds were still open. The love still missing. The questions still unanswered.",
+            "The new estate offered more than just better living conditions—it offered anonymity. For Kevin, it was the perfect mask. He and Mary now lived in decent rented apartments, far from the congestion and noise of the slum they had first called home. With this privacy came a terrible freedom. Kevin could mistreat Mary without worrying about judgmental stares or interfering neighbors. Nobody knew them here and no one cared.",
+            "He kept drinking. He still smoked. He came home whenever he pleased, and when he did, he barely acknowledged Mary’s existence. There were no kisses, no questions about her day, no attempts at companionship. He treated her like she was just another piece of furniture in the house—there, but invisible.",
+            "Mary, silent and tired, began to feel the pain of déjà vu. This was her mother’s life. She had watched"
+          ]
+        },
+        {
+          paragraphs: [
+            "her mother wither under her father’s emotional neglect and psychological torment, and now here she was—wearing the same shoes, walking the same path. The only difference was the volume of violence. Kevin didn't raise his hand often, but he hurt her in different ways. His coldness was a weapon. His absence was punishment. His disdain was sharper than any slap. And perhaps worst of all, Kevin wasn’t trying to make it work—he was hoping she would give up and walk away.",
+            "The months that followed were like crawling through a tunnel of torment. Mary sunk deeper into emotional despair. She sought solace in spiritual texts. Gospel songs became her escape and therapy. She would sit by the window, listening to the same songs over and over, trying to absorb peace through melodies, to drown Kevin’s rejection in scriptures and hymns.",
+            "One quiet weekend afternoon, Joy came to visit them. She had been with Beatrice, who lived in the same city as Kevin and Mary. Joy looked frail, and Kevin was shocked by her appearance. Her once lively eyes seemed dull with exhaustion, and her face bore the signs of prolonged illness. She sat with Mary and Kevin in the living room, and for a moment, no one said much. It was the heaviness of seeing her like that."
+          ]
+        },
+        {
+          paragraphs: [
+            "Later, when she sat with Kevin alone on the balcony, she spoke softly but firmly.",
+            "\"Kevin, you have a family now. Mary may not be perfect, but she has endured so much. She has stood by you. You need to stop punishing her and start being the man you were meant to be.\"",
+            "Kevin stared at her, speechless.",
+            "\"Love your family. Prioritise responsibility. It’s the only way your soul will rest,\" Joy continued, as if she knew something no one else did.",
+            "Her words, her condition, and her presence struck Kevin deeply. That night, he couldn’t sleep. He stared at Mary and felt a mix of guilt and sadness. Joy’s visit had reminded him of what he had buried under years of bitterness.",
+            "Then came an evening that changed Kevin.",
+            "He was heading home, tired and tipsy, when he saw Mary from a distance. She sat on a raised platform on the rooftop of their apartment block, the orange sun hanging low before her. She wasn’t looking at"
+          ]
+        },
+        {
+          paragraphs: [
+            "the sky—she was staring through it. Her posture was stiff. Her shoulders hunched. Her eyes hollow.",
+            "Kevin felt like he was looking at a ghost who had not realized they had died.",
+            "Kevin froze. For the first time in years, he saw her—not just her body, but her brokenness. And it broke something in him too.",
+            "The next evening, he came home with a pair of shoes. They weren’t expensive. They didn’t carry much meaning in the grand scheme of things. But for Mary, they were a signal—a faint sign that perhaps Kevin had noticed her pain.",
+            "Truly, he had.",
+            "Kevin, for the first time, acknowledged to himself what he had become. A monster. A selfish, bitter man using pain as a tool to manipulate someone who had done nothing but love him. His grand dreams of freedom, of leaving the country to live a better life abroad, seemed petty in comparison to the life he was ruining."
+          ]
+        },
+        {
+          paragraphs: [
+             "He felt shame.",
+            "And so, Kevin decided to change.",
+            "In the days that followed, he made an effort. He came home early. He spoke more kindly. He even laughed sometimes. But deep within him, he still hadn’t accepted Mary in his heart. His transformation wasn’t born of love. It was a surrender. A tired man making peace with the fact that this was his life now.",
+"            And then Mary got pregnant and had a son.",
+            "The news brought unexpected joy. Kevin smiled. Mary cried—tears of relief. The baby was like sunlight piercing through the cold fog of their relationship. Their families rejoiced, especially Mary’s. For once, they were proud of her. They believed she had made it.",
+            "And for a while, it felt like she had.",
+            "Kevin and Mary began to thrive. Their home became warmer. Their finances improved. They furnished"
+          ]
+        },
+        {
+          paragraphs: [
+            "their house beautifully. Mary’s mother, back in the village, was gifted a small business, and for the first time in years, she walked around the village with pride. They even started their own small business—a side hustle that promised growth.",
+            "But Kevin still drank. And while he pretended to have stopped using marijuana, he only became better at hiding it. His finances gave him access to more alcohol and more friends, especially from work, who normalized the drinking.",
+            "Gradually, Kevin started resenting Mary again.",
+            "He didn’t understand it himself. She hadn’t changed. She remained loving, supportive, and dedicated to their son. Yet Kevin’s heart hardened each time he saw her. Something about her presence made him feel… trapped. Like he was living someone else's life.",
+            "As Kevin bore the pressures life was laying on him, a phone call came in one quiet evening, from Beatrice. Joy had passed on. Kevin went silent. Mary tried to console him but he kept breaking down. He took a walk alone and wept quietly in a secluded spot. Joy’s words echoed in his mind—love your"
+          ]
+        },
+        {
+          paragraphs: [
+            "family, prioritise responsibility. He realised he hadn’t even thanked her for the impact her words had made. It tore him apart. Her death did something to him. It pushed him to look within himself again.",
+            "Back in Kevin's village, things were falling apart.",
+            "Brian, once the golden boy of the family, was stuck. He still ran what remained of the family hardware business. The hardware barely made profit. The days of prestige and hope were long gone.",
+            "Brian's past as headboy in one of the city’s top high schools seemed like a cruel joke now. He had once dreamed of being a politician. A voice for his people. But the village swallowed him. He forgot about books. He forgot about his dreams. Every day became a loop—wake up, sit at the dying shop, close in the evening, sleep. A few months later however, Beatrice sponsored his relocation abroad where he got a job and settled.",
+            "Their village home had lost its glory. The main house, once the envy of neighbors, now stood like a ruin. Kevin’s late mother’s house was empty. So was Marcus’s. The only occupied house was the one where his father lived with his second family. With Brian gone and all businesses closed, they now"
+          ]
+        },
+        {
+          paragraphs: [
+            "depended on farming.",
+            "But that was the part Kevin couldn’t understand. Despite the visible poverty, his step-siblings were in boarding schools, and some were already in university. Kevin’s eyes stung each time he thought of how easily his own education had been discarded. Why didn’t anyone fight for him? Why had Joy and he been so forgotten? It was a pain that had no answer.",
+            "Kevin drank more. Smoked more. But he got better at hiding it. One day, however, he slipped. The baby’s clothes and hands reeked of smoke, and Mary knew. She exploded, threatening to leave, and take the baby with her. Kevin panicked. He begged. He swore he’d quit. And for a while, he cleaned up again.",
+            "But it was already too late. His secrecy, his dishonesty, and the emotional neglect began eating at their business. Debt crept in. They lost clients. And eventually, the business collapsed.",
+            "At work, however, Kevin wore a different mask."
+          ]
+        },
+        {
+          paragraphs: [
+            "To his colleagues, he was a gem. Quiet. Polite. Reliable. No one suspected the storm raging within him.",
+            "No one knew that behind the silence was a man wrestling daily with shame and failure. Kevin had never imagined this life for himself. A modest job. A family he hadn’t planned for. An education he never completed. No clear direction.",
+            "He thought often about escape. He just didn’t know where to run. Beatrice had been luring him to social work. To work collaboratively with her in her role in the NGO she worked for but he was too blind to see the opportunity. His mind was mostly preoccupied with the turns his life was taking.",
+            "Then one day, a colleague made a comment that hit differently.",
+            "“You would have made a great IT guy,” they said. “You’re really good with tech stuff, it’s like you were made for it.”",
+            "Kevin smiled, but inside, something stirred.",
+            "It was true. He’d always had a knack for gadgets, phones, computers. It came naturally to him, even"
+          ]
+        },
+        {
+          paragraphs: [
+            "without training. This made him dream again.",
+            "He visited a nearby university, trembling as he walked past the gates. At 28, he was older than most of the students. He felt out of place, like a ghost in a world that had moved on without him. This was his first time steppin into a university all his life and obviously the first time he was realizing the value of such institutions. He pushed himself and got the fee structure. Then headed to the next university and got the second. Both were painful to look at. There was no way he could afford it—not with a child, a wife, and a mountain of bills. He realized how much he had procrastinated. This was twelve years after his graduation from High school. University should have been his next stop. He couldn’t blame himself, he had been alone all those years.",
+            "Then Mary suggested something else.",
+            "“Why not perfect your driving and go into trucking instead?” she said.",
+            "Kevin brushed it off. He didn’t value her ideas much, and besides, his heart was set on IT, so he turned to the internet."
+          ]
+        },
+        {
+          paragraphs: [
+            "He enrolled in a cost friendly web development course. Nights became his classroom. His mind, his pencil. He learned HTML, CSS, and JavaScript. Soon he was building simple websites for local businesses, but opportunities were scarce. He started imagining a company—a tech company of his own, operating the numerous app and website ideas he had.",
+            "For the first time in a long while, Kevin felt alive.",
+            "But life wasn’t done testing him.",
+            "As he rose slowly from the mud, as he began to piece together hope and dignity, something happened.",
+            "Something he could never have prepared for.",
+            "Something that tore his life down—not just to zero, but into the negatives.",
+            "He almost lost everything. His family. His mind. His future.",
+            "But even in that darkness… a sliver of light pushed through."
+          ]
+        },
+        {
+          paragraphs: [
+            "A small opening. A chance. A painful path that would change everything.",
+            "Forever."
           ]
         }
       ]
