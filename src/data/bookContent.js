@@ -438,7 +438,7 @@ export const chapters = [
           paragraphs: [
             "his build, but because of something deeper: a fearless, untamed energy. Kevin hadn’t embraced Vin’s wild side back then—he watched from a safe distance, unsure and still somewhat guarded. But now, something had shifted. He didn’t just admire Vin’s rebellious nature—he wanted to be like him.",
             "Vin had been bold—too bold. People respected him. Or feared him. Often both. And now, walking into a school system that silenced individuality and punished rebellion, Vin didn’t shrink. He stood out like a spark in dry grass. His presence was electric—dangerous, unpredictable, and impossible to ignore.",
-            "He was rude. He talked back to teachers in that smooth, unshaken way that made other students hold their breath. He was also tough — his eyes carried something Kevin recognized but couldn’t explain: something like pain, cloaked in charisma. There were whispers that he smoked marijuana, and some boys joked that it was the source of his sharp wit and fearless energy. But no one could deny — he was brilliant in drama. He could become anything on stage — a prophet, a criminal, a madman. He made people laugh and think and wonder. He had what Kevin secretly craved: presence.",
+            "He was rude. He talked back to teachers in that smooth, unshaken way that made other students hold their breath. He was also tough — his eyes carried something Kevin recognized but couldn’t explain: something like pain, cloaked in charisma. There were whispers that he smoked marijuana, and some boys joked that it was the source of his sharp wit and fearless energy. But no one could deny — he was brilliant in drama. He could become anything on stage — a prophet, a criminal, a madman. He made people laugh and think and wonder. He had what Kevin secretly craved: presence."
           ]
         },
         {
@@ -446,7 +446,7 @@ export const chapters = [
             "Marcus, his eldest brother, had lived a wild life too—smoking, partying, clubbing. In many ways, he wasn’t so different from Vin. But now, Marcus had left the shopping center for the city, claiming he needed to \"figure things out.\" That was the phrase they all used—vague and open-ended—like a quiet permission to disappear without question. No one tried to stop him. Marcus had always been the free one. The cool one. The one who walked his own path and somehow made it look effortless.",
             "Kevin had always gravitated toward him, drawn by that aura of untouchable freedom. But he couldn’t understand it. How did they do it—Marcus and Vin? How did they move through life so boldly, without fear, without hesitation? How did Vin command a stage before hundreds of students as if nerves didn’t exist? How did Marcus make life decisions without needing approval?",
             "Kevin, in contrast, felt caged—trapped in a world of doubt, fear, and invisible walls. While others lived loudly, he merely existed in silence. A prisoner in his own mind.",
-            "In their culture, when the eldest son came of age, he was expected to build his own house. Marcus had built his on a raised piece of land, beneath a mango tree, with one iron sheet already rusting from the rain. In his absence, Kevin took it up. Culture allowed it — the younger siblings were free to occupy it if",
+            "In their culture, when the eldest son came of age, he was expected to build his own house. Marcus had built his on a raised piece of land, beneath a mango tree, with one iron sheet already rusting from the rain. In his absence, Kevin took it up. Culture allowed it — the younger siblings were free to occupy it if"
           ]
         },
         {
@@ -454,7 +454,7 @@ export const chapters = [
             "the elder wasn’t around. But Kevin abused that culture.",
             "When Marcus left, he quietly moved out of his mother’s house and into Marcus’s two-room hut at the far edge of the family compound. The small structure, distant from the main house and tucked in a quiet corner, offered a kind of privacy that felt liberating— like his mother’s house, It had no electricity, only the main house, where his father and the step family stayed, was powered. It had no comforts to speak of, but Kevin didn’t mind. In fact, he preferred it that way. To him, it wasn’t just a house—it was a hideaway. A place where no one was watching, where expectations faded into silence.",
             "It became his world. A world without rules.",
-            "The nights came calling like old friends. Kevin began slipping out under the cover of darkness, drifting into the company of restless boys in the village. They wandered into the smoky local discos, small rooms pulsing with loud music and strobe lights powered by car batteries. He started bringing girls back with him, mimicking Marcus—the way he used to brag about his wild nights in the shopping center, about women, freedom, and chaos wrapped up like glory. Kevin thought that if he copied those habits, maybe he’d become like him—free-spirited, magnetic, untouchable.",
+            "The nights came calling like old friends. Kevin began slipping out under the cover of darkness, drifting into the company of restless boys in the village. They wandered into the smoky local discos, small rooms pulsing with loud music and strobe lights powered by car batteries. He started bringing girls back with him, mimicking Marcus—the way he used to brag about his wild nights in the shopping center, about women, freedom, and chaos wrapped up like glory. Kevin thought that if he copied those habits, maybe he’d become like him—free-spirited, magnetic, untouchable."
           ]
         },
         {
@@ -462,14 +462,14 @@ export const chapters = [
             "And so, the hut transformed.",
             "No longer just a home, it became a hiding place for indulgence and escape. Marijuana made its quiet entrance—first in whispers, then in smoke. Maybe, he thought, it would give him Vin's \"superpowers\" or the edge Marcus had. Maybe it would silence the constant noise in his head. It didn’t. It only made things worse. The highs were strange, confusing, even frightening. He thought he saw shadows, imagined insults, read hatred into people’s stares. It added paranoia to his already tangled emotions. Alcohol followed, dulling his already frayed thoughts. What started as an attempt to be like Marcus slowly spiraled into something else—a blur of nights that bled into mornings, of foggy decisions, and distant consequences. His father and the step family never found out. Maybe they did, but never spoke.",
             "What Kevin couldn’t admit to himself, was that this place he loved so much was becoming a trap. The more he tried to feel brave, charismatic, or grown-up, the more he drifted from himself. What he thought was freedom was just a softer kind of prison. And deep down, though he wouldn’t say it out loud, a part of him knew it.",
-            "He was losing himself—but didn’t know who he was in the first place to notice.",
+            "He was losing himself—but didn’t know who he was in the first place to notice."
           ]
         },
         {
           paragraphs: [
             "Meanwhile, things had changed back at the shopping center. Marcus’s younger brother, Brian, had graduated a few years earlier and was now stepping up to manage the family’s hardware store and other small businesses. But Brian was nothing like Marcus. Where Marcus was fluid, spontaneous, and magnetic, Brian was structured, stern, and unyielding. Even as kids, Kevin had felt the distance between them. Brian had always carried himself with a sense of authority—disciplined, cautious, never one to bend the rules. He didn’t go clubbing, didn’t smoke, and certainly didn’t roam the streets like Marcus had.",
             "He would take a drink every now and then, but only on his own terms—never for fun, never to escape. He wasn’t the type to be idolized by the streets or remembered in whispers. Kevin found his presence heavy, his company cold. They shared blood but little else. With Brian, everything felt like an unspoken judgment—like Kevin was always being measured and falling short.",
-            "At school, Kevin’s thoughts began to drift toward quitting. Either with drama, or rebellion — he didn't care. But he just didn’t know how to do that without bringing shame, without raising alarm. So he stayed. And drifted.",
+            "At school, Kevin’s thoughts began to drift toward quitting. Either with drama, or rebellion — he didn't care. But he just didn’t know how to do that without bringing shame, without raising alarm. So he stayed. And drifted."
           ]
         },
         {
@@ -486,7 +486,7 @@ export const chapters = [
             "He remembered how teachers sometimes said things like, “Some of you are just here to pass time,” or, “Some of you are here in body but not in mind.” Back then, he thought they were just speaking generally but years later, he’d look back and realize they were talking about him. It crashed him.",
             "His body had changed too. The boy who once looked sharp, whose eyes sparkled with questions and possibilities, now looked tired. Older than his age. His uniform, old. The weight of confusion and shame sat heavy on his shoulders.",
             "Then came the subject selection.",
-            "This was the year every student had to choose the subjects that would shape their future. Careers, they called it or life paths, if you like. Everyone buzzed with anxiety. But for Kevin, the question hit like lightning: what did he want to become?",
+            "This was the year every student had to choose the subjects that would shape their future. Careers, they called it or life paths, if you like. Everyone buzzed with anxiety. But for Kevin, the question hit like lightning: what did he want to become?"
           ]
         },
         {
@@ -495,7 +495,7 @@ export const chapters = [
             "He didn’t know. He only knew that he could be someone — anyone — if he could just find a door to walk through.",
             "He was among the few that chose Business Studies, Physics and Geography. It wasn’t about appearances, though the other students thought so. They whispered that the city boy didn’t want Agriculture or Biology, because they were “village subjects.” But Kevin had picked what he was best at — or at least what confused him the least.",
             "Still, he finished third term feeling like a stranger to himself. The year had passed in a blur. His grades were middling. His days forgettable. And his soul — a mystery even to him.",
-            "He was there. But not really.",
+            "He was there. But not really."
           ]
         },
         {
@@ -509,25 +509,84 @@ export const chapters = [
       title: "Chapter 7",
       pages: [
         {
-          title: "Headache",
+          title: "Final Year in High School",
           paragraphs: [
-            "Headache, one of the most prevalent human ailments, encompasses a broad spectrum of disorders with diverse causes and clinical features. Primary headaches, including migraine, tension-type, and cluster headaches, are not attributed to another condition and typically follow characteristic patterns.",
-            "Secondary headaches result from underlying causes such as infection, trauma, vascular disorders, or increased intracranial pressure. These require identification and treatment of the underlying cause. The \"thunderclap headache\"—explosive, severe pain reaching maximum intensity within seconds—warrants emergency evaluation for life-threatening conditions like subarachnoid hemorrhage.",
-            "When evaluating headaches, clinicians consider the onset, location, quality, intensity, duration, frequency, aggravating and relieving factors, and associated symptoms. Neuroimaging may be indicated when headaches have atypical features or when they're accompanied by neurological symptoms, seizures, or signs of increased intracranial pressure."
+            "The first term began, but Kevin didn’t. He went to school, showed up in class, and responded when called. But on the inside, he was just there—empty, untethered, and somehow even more confused than before. The world around him moved, but he was stuck. Teachers talked about exams and futures. Friends made plans. Kevin just drifted.",
+            "At home, nothing had changed. The distance between him and his father felt like a cold war that had frozen over long ago. The stepfamily moved around him like strangers in a shared house, not one of them reaching out, and Kevin had long stopped expecting warmth. He still stayed in Marcus’s hut at the far end of the compound. It was quiet. Detached. And so, was he. He only entered the main house for meals, and sometimes not even that—he would carry his food out and eat alone in the hut, surrounded by the cracked walls and the silence he had grown used to.",
+            "But silence never lasts."
           ]
         },
         {
           paragraphs: [
-            "\"Dizziness\" encompasses several distinct sensations often described differently by patients. True vertigo refers to an illusion of movement, typically a spinning sensation, suggesting dysfunction in the vestibular system. Lightheadedness or presyncope—the feeling that one might faint—often relates to cardiovascular causes or low blood sugar.",
-            "Disequilibrium, or unsteadiness when standing or walking, frequently stems from neurological or musculoskeletal disorders affecting balance. Non-specific dizziness may result from anxiety, hyperventilation, or medication effects, among other causes.",
-            "Associated symptoms help distinguish between these types and their potential causes. Vertigo with hearing changes suggests inner ear disorders, while dizziness accompanying chest pain, palpitations, or shortness of breath may indicate cardiovascular issues. Temporary dizziness with neck turning might represent vertebrobasilar insufficiency."
+            "Rumors of Kevin’s nighttime adventures had made their way to his father’s ears. One evening, as Kevin walked into the compound, his father exploded. The yelling was fierce, the rage unfiltered—accusations of shame, threats, and disappointment fired like bullets. Kevin stood there, absorbing every word like rain on stone. He didn’t speak. He never knew how to. Not in any moments, less of a heated one like that. There were things inside him, questions, hurt, even defiance—but they stayed trapped inside, locked behind years of fear and silence.",
+            "The next day at school, his deskmate brought a magazine—something glossy and colorful, with a smell of ink that offered a temporary escape from the monotony of textbooks and lectures. Kevin borrowed it without thinking. Flipping through the pages, his eyes caught a headline about an African man who had made it to the presidency of a foreign country.",
+            "He blinked, stunned.",
+            "How?",
+            "He read the article, sentence by sentence, as though it would fall apart if he rushed. A part of him felt"
           ]
         },
         {
           paragraphs: [
-            "Alterations in consciousness range from mild confusion to deep coma. These represent emergencies requiring prompt evaluation and often indicate serious underlying conditions affecting brain function.",
-            "Delirium—an acute confusional state with fluctuating course, inattention, and altered consciousness—commonly affects hospitalized patients, particularly the elderly. It may result from medications, infections, metabolic disturbances, or other medical conditions and carries significant morbidity and mortality.",
-            "Stupor refers to a state of near-unconsciousness with preserved response to painful stimuli, while coma involves unresponsiveness even to painful stimulation. Both require immediate medical attention to identify and address the cause, which may include toxic exposures, metabolic disorders, infections, or structural brain lesions."
+            "something stir—something like awe, or disbelief. Then he turned another page and saw a write-up about a new online platform—built by some university kid abroad. It was pulling people together in the thousands. Every day, more joined. It was a revolution built on creativity, imagination, and curiosity.",
+            "The world felt suddenly bigger. Kevin was amazed. These were just people—normal human beings doing extraordinary things. Could he achieve the same? The thought scared him. He returned the magazine to his deskmate without saying a word. He never told anyone what he’d read. Or how it made him feel. He didn’t know how to say it. He barely knew how to believe it. All he knew was that something inside him shifted. A longing. A fear. A quiet, painful hope.",
+            "But that was the problem: Kevin didn’t believe such stories were meant for people like him.",
+            "Later that term, a group of white missionaries came to their school, part of a church outreach project. For Kevin, their arrival hit like a wave from the past. It reminded him of his childhood in the city—of air-conditioned churches, children’s choirs, and sermons delivered with polished accents. He hadn’t been this close to white people in years."
+          ]
+        },
+        {
+          paragraphs: [
+            "And when one of them—a young lady with a gentle face and friendly eyes—stopped him to chat, Kevin froze. He couldn’t look at her. Couldn’t find the words. His tongue felt like lead. Sweat ran down his back. She smiled through it, tried to understand. But when she walked away, Kevin felt her disappointment. And that hurt more than he could explain.",
+            "It opened something raw inside him—a wound, only he could see. It took him back to the city school days, when his English made teachers proud. When his compositions were read aloud in class. When he was sent to the headteacher’s office to help shame an older student who had poor grammar. But that was him now.",
+            "What had he become?",
+            "The memory thinned gradually, like smoke.",
+            "Now he sat by the river, silence pressing against his ears. The water whispered past the stones, steady and indifferent. He picked up a pebble, tossed it in, and watched it vanish."
+          ]
+        },
+        {
+          paragraphs: [
+            "He rose up and walked home slowly, his feet dragging as if every step cost him strength. The path was quiet, the midmorning sun casting long shadows as he neared the compound. His mind was still drifting, still swirling in a place between pain and numbness. As he approached the gate, he saw his father inside the compound, trimming the fence with a pair of rusted shears. The man looked up instinctively, eyes narrowing as he caught sight of Kevin’s figure.",
+            "Kevin’s shirt clung loosely to his shoulders, his trousers sagged slightly, and his eyes were empty. His mouth was dry from the heat and the hangover, and his movements were staggered, and uncoordinated. As he drew closer, the smell of cheap alcohol betrayed him. His father clenched his jaw, spat violently on the ground, and before Kevin could even greet him, a loud slap landed across his cheek.",
+            "\"You’re not my son anymore\" He barked, \"If you’ve become a drunkard, you can forget you ever had a father.\"",
+            "Kevin didn’t respond. He didn’t flinch either. He had grown used to this—physical blows, emotional ones, the weight of expectations he couldn’t carry. His stepmother peeped through the window when"
+          ]
+        },
+        {
+          paragraphs: [
+            "she heard the commotion. As usual, she stayed out of it. Kevin was never her business, and her indifference was louder than any words she could have said.",
+            "His father interrogated him, barking questions without pause. Kevin, dazed and emotionally frayed, tried to explain. He talked about the suspension, about the teacher who had singled him out, about how everything escalated. His voice was weak and uncertain, and every word only made his father angrier.",
+            "Fuming, his father called Brian. He told him to leave the shop at the center and come home immediately. When Brian arrived, Kevin noticed something he didn’t expect—his older brother looked genuinely concerned. Brian didn’t scold him. He didn’t yell. Instead, he sat with Kevin outside their mother’s house and gave him space to talk. For the first time in years, someone asked Kevin to speak freely.",
+            "But his words never formed. Kevin wanted to open up about the confusion, the loneliness, the dreams he didn’t understand, the shame, the pain—but all that came out were fragments. Thoughts that didn’t seem to connect. Feelings he couldn’t verbalize. It was like his emotions were locked behind an"
+          ]
+        },
+        {
+          paragraphs: [
+            "invisible wall, too heavy to lift.",
+            "His father accompanied him to school the next morning, in an attempt to plead his case, but the deputy headteacher stood firm. Kevin had to serve the full two-week suspension. As they left the office, Kevin looked at the students walking to class, books in hand, laughter in their voices. He felt like a ghost among the living.",
+            "The two weeks at home were unbearable. He was in his final year, and each passing day was a reminder of how much he was falling behind. Home wasn’t a place of refuge—it was an arena of cold stares, whispers, and loneliness. The house remained split—his stepmother busy with her children and his father always frowning. The older step-siblings attended the same rural school Kevin had first joined  and crumbled, when they came from the city. His step-siblings looked settled, like they belonged. But Kevin, in contrast, looked like a misfit, proud and choosy to some, lost and broken to others.",
+            "When he returned to school, a  severe punishment awaited. He was assigned to carry construction debris from a classroom floor being renovated. He spent his days during lesson hours moving buckets of soil and rocks to a heap at the school gate with a wheelbarrow. Students watched from windows."
+          ]
+        },
+        {
+          paragraphs: [
+            "Teachers passed by. Some laughed. Others stared silently. Kevin felt naked in front of them all.",
+            "The humiliation cut deeper than any punishment. His dignity had been shredded. Still, the task ended, and he was allowed back into class—briefly. He was sent home for school fees and his father took another three weeks to raise the money.",
+            "During those weeks, he buried himself in books. He moved back into his mother's house from Marcus’s hut. He studied obsessively, not from hope, but from fear—fear of the exams, fear of failure, fear of the future. When he finally returned to school, his classmates had moved far ahead. Lessons were abstract, discussions alien. He couldn’t catch up. He sat in class like a foreigner, his mind scrambling to understand.",
+            "Dark thoughts hovered. The depression grew deeper. But he fought it silently. He had no choice. He turned to his books again. They became his refuge. He read not just for school, but to forget.",
+            "He tried to rebuild his image. Smiled more. Participated in class activities. Laughed at jokes. But it was all a performance. No one really engaged with him. His laughter echoed in hollow chambers. It became"
+          ]
+        },
+        {
+          paragraphs: [
+            "painfully clear when teachers began overlooking him. When his hand was raised during lessons, they would simply ignore.",
+            "In quiet moments, he thought about the first year—the fire he came with, the hope, the eagerness. He wished he had just accepted the fate then. Maybe if he had blended in, let go of everything, connected with everyone—it might have ended better. But he didn’t blame himself entirely. That kind of surrender needed support, and he had been alone all along.",
+            "Students talked about universities, career dreams, future plans. Kevin didn’t. He didn’t believe in education anymore. He wanted to be a singer, though he had never sung publicly and had no proof of talent. It was the only dream that felt like his. More of a wish, than a plan.",
+            "When the final exams came, the pressure was unbearable. He walked into the hall each day with a storm inside. Coincidentally, Joy visited during this time. She brought snacks, toiletries, and books from the city. Her presence lit something in him—a tiny flicker of the life he once knew. But it also broke him. He cried that night, silently, overwhelmed by the kindness, the memories, and the contrast."
+          ]
+        },
+        {
+          paragraphs: [
+            "When results came out the following year, people were stunned. Teachers, classmates, even his family didn’t believe it. Kevin had done well—better than most of his class. He missed the university entry mark by a thread, but considering his journey, it was a miracle.",
+            "Yet, Kevin didn’t know what to do next. No plan. No path. He stood at a crossroad, again. Still lost, still waiting for life to decide for him. For most of his life, decisions had been made for him. He didn’t even know how to dream freely. So he waited. Blank, uncertain, quietly hoping life would show him the way."
           ]
         }
       ]
