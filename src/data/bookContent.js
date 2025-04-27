@@ -1070,45 +1070,149 @@
       title: "Chapter 10",
       pages: [
         {
-          title: "Headache",
+          title: "Kevin's Reflections",
           paragraphs: [
-            "Headache, one of the most prevalent human ailments, encompasses a broad spectrum of disorders with diverse causes and clinical features. Primary headaches, including migraine, tension-type, and cluster headaches, are not attributed to another condition and typically follow characteristic patterns.",
-            "Secondary headaches result from underlying causes such as infection, trauma, vascular disorders, or increased intracranial pressure. These require identification and treatment of the underlying cause. The \"thunderclap headache\"—explosive, severe pain reaching maximum intensity within seconds—warrants emergency evaluation for life-threatening conditions like subarachnoid hemorrhage.",
-            "When evaluating headaches, clinicians consider the onset, location, quality, intensity, duration, frequency, aggravating and relieving factors, and associated symptoms. Neuroimaging may be indicated when headaches have atypical features or when they're accompanied by neurological symptoms, seizures, or signs of increased intracranial pressure."
+            "The month that Kevin los0t his job started off like any other. There was nothing to suggest that disaster was lurking on the horizon. He woke up, dressed for work, changed shifts between day and night as assigned, and returned home to continue with his online studies. Life seemed normal. Predictable even. But towards the end of the first week, an unfamiliar figure crept into his life through a messaging app he’d downloaded.",
+            "It started innocently. A stranger greeted him with warmth and curiosity, asking where he came from, how he was doing, what his interests were. Kevin felt it would be impolite to ignore, so he replied. Their chats became frequent — a few times every day. It didn’t seem like anything serious, just someone being friendly.",
+            "By the second week, the conversation took a turn. The man — or so it seemed from his profile picture — revealed he was an investor in Centominers FX, a cryptocurrency mining company. He claimed that any amount Kevin invested would double within 24 hours."
           ]
         },
         {
           paragraphs: [
-            "\"Dizziness\" encompasses several distinct sensations often described differently by patients. True vertigo refers to an illusion of movement, typically a spinning sensation, suggesting dysfunction in the vestibular system. Lightheadedness or presyncope—the feeling that one might faint—often relates to cardiovascular causes or low blood sugar.",
-            "Disequilibrium, or unsteadiness when standing or walking, frequently stems from neurological or musculoskeletal disorders affecting balance. Non-specific dizziness may result from anxiety, hyperventilation, or medication effects, among other causes.",
-            "Associated symptoms help distinguish between these types and their potential causes. Vertigo with hearing changes suggests inner ear disorders, while dizziness accompanying chest pain, palpitations, or shortness of breath may indicate cardiovascular issues. Temporary dizziness with neck turning might represent vertebrobasilar insufficiency."
+            "Kevin had never heard of cryptocurrency before. While he was good with tech — coding, web interfaces, gadgets — this was beyond him. Like most people, he turned to the internet. He read everything he could find: blogs, forums, tech sites, Reddit threads. He watched YouTube videos, some promising massive returns, others warning about scams. Still, he couldn’t quite wrap his head around the whole thing.",
+            "He discussed it with Mary. They both agreed it sounded fishy, more like a trap. They made a pact: they wouldn’t fall for it.",
+            "But the man was persistent. He added Kevin to a group chat of supposed investors. The space was buzzing with activity — screenshots of successful payouts, people showering praise on Centominers FX, sharing testimonies of overnight riches. It felt like a well-organized movement. And it looked real.",
+            "Kevin began doubting his earlier caution.",
+            "He scrolled through the members list in the group and noticed a profile that caught his attention — a woman smiling with a little girl, likely her daughter. It looked sincere, trustworthy. He messaged her"
           ]
         },
         {
           paragraphs: [
-            "Alterations in consciousness range from mild confusion to deep coma. These represent emergencies requiring prompt evaluation and often indicate serious underlying conditions affecting brain function.",
-            "Delirium—an acute confusional state with fluctuating course, inattention, and altered consciousness—commonly affects hospitalized patients, particularly the elderly. It may result from medications, infections, metabolic disturbances, or other medical conditions and carries significant morbidity and mortality.",
-            "Stupor refers to a state of near-unconsciousness with preserved response to painful stimuli, while coma involves unresponsiveness even to painful stimulation. Both require immediate medical attention to identify and address the cause, which may include toxic exposures, metabolic disorders, infections, or structural brain lesions."
-          ]
-        }
-      ]
-    },
-    {
-      title: "Chapter 11",
-      pages: [
-        {
-          title: "Headache",
-          paragraphs: [
-            "Headache, one of the most prevalent human ailments, encompasses a broad spectrum of disorders with diverse causes and clinical features. Primary headaches, including migraine, tension-type, and cluster headaches, are not attributed to another condition and typically follow characteristic patterns.",
-            "Secondary headaches result from underlying causes such as infection, trauma, vascular disorders, or increased intracranial pressure. These require identification and treatment of the underlying cause. The \"thunderclap headache\"—explosive, severe pain reaching maximum intensity within seconds—warrants emergency evaluation for life-threatening conditions like subarachnoid hemorrhage.",
-            "When evaluating headaches, clinicians consider the onset, location, quality, intensity, duration, frequency, aggravating and relieving factors, and associated symptoms. Neuroimaging may be indicated when headaches have atypical features or when they're accompanied by neurological symptoms, seizures, or signs of increased intracranial pressure."
+            "privately, asking if it was real, if she had actually received the money. Her response was persuasive, and calculated. Whether it was really a woman or just another scammer behind the profile, Kevin would never know. But she — or he — was convincing. She suggested he try with a small amount and see for himself.",
+            "Kevin’s mind spiraled. His months of learning Web Development gave him enough understanding to identify red flags — and there were plenty. The whole setup was absurd. It had the typical structure of a scam: vague terms, unrealistic returns, unverifiable testimonials, and a faceless “team” behind the platform. But it also carried traces of plausibility. Cryptocurrency mining, as he had learned, was indeed real. Miners existed. People earned from it. Perhaps this company did the hard work and gave people a cut. But why were they faceless? He wished he knew.",
+            "Then one evening, he recalled a conversation with the security guard at the station. The man had once mentioned bitcoin. Kevin approached him and asked about it. The guard claimed he had once made 700,000 shillings on such platforms. When Kevin asked him why these people hid their identities, the man said it's likely a security measure because they make so much money everyday. That made sense and changed everything. Here was someone Kevin knew — a real person, a tangible connection. It"
           ]
         },
         {
           paragraphs: [
-            "\"Dizziness\" encompasses several distinct sensations often described differently by patients. True vertigo refers to an illusion of movement, typically a spinning sensation, suggesting dysfunction in the vestibular system. Lightheadedness or presyncope—the feeling that one might faint—often relates to cardiovascular causes or low blood sugar.",
-            "Disequilibrium, or unsteadiness when standing or walking, frequently stems from neurological or musculoskeletal disorders affecting balance. Non-specific dizziness may result from anxiety, hyperventilation, or medication effects, among other causes.",
-            "Associated symptoms help distinguish between these types and their potential causes. Vertigo with hearing changes suggests inner ear disorders, while dizziness accompanying chest pain, palpitations, or shortness of breath may indicate cardiovascular issues. Temporary dizziness with neck turning might represent vertebrobasilar insufficiency."
+            "couldn’t all be a lie.",
+            "Meanwhile, Mary had been voicing her frustrations louder each day. The house was half-furnished. Their baby needed new clothes. She was tired of handwashing their laundry. The sofa was torn, the table wobbled. She wanted to fix their lives. Kevin, burdened by her needs, their debts, and his own dreams, began to crumble inside.",
+            "Ten years! He had worked at that station for a whole decade. He was thirty-five and still a fuel pump attendant. It was humiliating. Every time he saw a former classmate or childhood friend drive in, he felt exposed, like a wound reopened. Sometimes he hid behind the fuel pump to avoid being seen.",
+            "He wanted out.",
+            "He wanted better — not just for Mary, not just for their baby, but for himself. He had dreams too, ones that never got the nurturing they deserved. Life had tossed him from one phase to another without direction, without a mentor, without a father figure. He had always kept things bottled up. Even Mary, the closest person to him, often didn’t understand the weight he carried. And now, again, he stood on a"
+          ]
+        },
+        {
+          paragraphs: [
+            "crossroad with no one to guide him.",
+            "And so, towards the end of the second week, Kevin made a choice. Against all reason, against the research, against the warning signs — he decided to test the waters. Just one thousand shillings, he told himself. Nothing big. Just to see.",
+            "But he didn’t have the money. So he dipped into the day’s sales.",
+            "He didn’t tell Mary.",
+            "He didn’t tell anyone.",
+            "All he could think of was the reward. The hope. The escape.",
+            "He shut down every voice in his head that told him to stop. He ignored the lessons, the fears, the instincts. Because life had always demanded so much from him, and given so little in return.",
+            "This time, he convinced himself, it would be different."
+          ]
+        },
+        {
+          paragraphs: [
+            "He clicked “send.”",
+            "And with that, Kevin unknowingly began a journey that would upend everything.",
+            "Kevin returned to the group chat and messaged the woman again. Her profile exuded calm, maturity, and trustworthiness. She had posted consistently helpful messages, and Kevin had long noticed that others often responded positively to her advice. Feeling a mixture of desperation and hope, he reached out to her privately.",
+            "She responded warmly, as if she'd been expecting him. She called him \"dear\" and thanked him for trusting her. She assured him that she would guide him step-by-step to avoid any mistakes. “I want you to succeed,” she said. “This platform has changed my life. It will change yours too.”",
+            "The woman’s instructions came with chilling precision. She explained how to convert his Kenyan shillings into bitcoin through a local exchange platform. She taught him how to send the bitcoin to the company’s mining address, and then how to access a customized dashboard to track his mining progress. It all seemed high-tech and professional. The interface even showed live progress bars and"
+          ]
+        },
+        {
+          paragraphs: [
+            "hash rates — whatever those were — and a countdown timer for when the mining process would end.",
+            "But the part that disturbed Kevin most was the withdrawal process.",
+            "\“You don’t withdraw on your own,\” she told him. \“The admin will release your payout after mining is complete. It’s a security protocol.\”",
+            "Kevin paused. That was a huge red flag. What kind of investment locked you out of your own funds? Why would an admin have control over his money?",
+            "The woman sensed his hesitation and quickly reassured him. \“I understand your fears,\” she said. \“But this is how the platform protects its clients from cyber theft. The admin handles everything manually to ensure accuracy. I’ve withdrawn many times. Trust me.\”",
+            "Still skeptical, Kevin hesitated. But he reminded himself that he was only testing the waters. He had 1,000 shillings he could risk. So he took the plunge and \"invested.\"",
+            "To his surprise, the process worked. There were a few minor glitches — delayed confirmations, a login"
+          ]
+        },
+        {
+          paragraphs: [
+            "issue — but nothing alarming. After 24 hours, his dashboard showed a complete mining cycle and a successful payout of nearly triple his investment. The admin confirmed the transfer, and within minutes, the bitcoin had landed in his wallet.",
+            "He converted it back into shillings.",
+            "It was real. He’d done it. Kevin was in disbelief — and ecstasy.",
+            "He felt like he'd just stumbled upon a secret key to a better life. No recruiting. No bothering friends. Just smart, silent investing. He would change his life under everyone’s nose and one day emerge from the shadows as a success story that no one could explain. That was the plan.",
+            "The admin asked him to post a testimonial in the group, and Kevin did so gleefully. He wrote a long message praising the company and its team for their professionalism and transparency. He even posted screenshots of his dashboard and wallet as proof. He privately messaged the woman who helped him and the man who had first mentioned the opportunity. They both congratulated him. The man boasted that he was a platinum investor — someone who invested six-figure sums and made daily"
+          ]
+        },
+        {
+          paragraphs: [
+            "profits in the tens of thousands.",
+            "\“Keep going,\” he told Kevin. \“You’re doing well. Work harder. Invest more. This is how we win.\”",
+            "Kevin returned the original 1,000 back into the sales account without a soul noticing. The rest, he used quietly at home. He didn’t tell Mary where the money had come from. He just said it was from some tips and side dealings at the station.",
+            "Encouraged by the success, he tried again. At the start of the third week, he invested 2,000 shillings, expecting a decent return. But this time, the admin messaged him with a surprise: \“You’ve moved to the next investment tier. Minimum investment is now 4,000.\”",
+            "Kevin felt uneasy. That didn’t make sense. Shouldn’t investments be flexible? Why force people into higher brackets?",
+            "But he needed the 2,000 back — it was from the sales pool, and he had to return it quickly. So, with a pounding heart, he added another 2,000, reaching the new threshold."
+          ]
+        },
+        {
+          paragraphs: [
+            "This time the mining period was longer — 48 hours. He spent those hours barely sleeping, checking his dashboard like a man possessed. Part of him expected things to go south. The admin still held the keys to his payout, and it frightened him.",
+            "But at the end of 48 hours, the payout came — 12,000 shillings. It worked again.",
+            "Elated, he posted another testimonial. Bigger. Better. He was now a believer. He messaged his two mentors and asked if they could meet in person. \“Maybe grab coffee?\” he offered. \“Just to say thanks.\”",
+            "They declined, offering vague excuses. He asked for their phone numbers. More excuses. Emails? Silence.",
+            "He shrugged it off. Maybe they were just cautious. Still, something in their refusal unsettled him.",
+            "He returned 4,000 back to the sales — again, undetected — and used the rest to take care of things at home. He never spent too much at once. He drip-fed it to avoid alarming Mary. She asked questions, of course, but he lied effortlessly."
+          ]
+        },
+        {
+          paragraphs: [
+            "\“Just some bonuses and tips,\” he’d say. \“You know how these things work.\”",
+            "By the end of the third week, Kevin was fully hooked. He started pumping huge amounts into the platform — all from work sales. The admin kept raising the tier thresholds. Now, Kevin couldn’t invest anything less than a six-figure sum. He protested, but was told that \“top-tier investors\” earned the highest trust and highest returns. He couldn’t back out now — not with so much already in.",
+            "He kept investing more.",
+            "He crafted clever ways to conceal the missing sales amounts. But the totals were now getting out of hand. It was just a matter of time before someone noticed. And they would. Soon.",
+            "Luckily, his day off was coming up.",
+            "That night, at home, Kevin barely ate. He kept checking his dashboard obsessively. Mary noticed. He looked haunted.",
+            "\“Kevin,\” she asked gently, \“what’s wrong?\”"
+          ]
+        },
+        {
+          paragraphs: [
+            "\“Nothing,\” he said, forcing a smile. \“Just tired.\”",
+            "When they went to bed, Kevin tossed and turned. He drifted into nightmares — police sirens, empty wallets, dashboards that turned to ash. Mary watched him with a growing sense of dread.",
+            "By morning, Kevin’s fears became reality.",
+            "The station’s management discovered the missing funds — huge amounts, gone without a trace. They tried calling Kevin. His phone was off. They searched for anyone who knew how to reach him. No one did. Not even his closest colleagues had Mary’s number.",
+            "The matter was reported to the police. Officers were stationed at the company, waiting to arrest him on sight. They broke into his locker, finding only envelopes — dozens of them. Pointless, empty envelopes. But to the police, they were suspicious.",
+            "Private investigators were hired.",
+            "Kevin was now a wanted man."
+          ]
+        },
+        {
+          paragraphs: [
+            "His boss, who had long respected Kevin’s privacy and reserved nature, couldn’t understand it. \“Why would he steal days before salary?\” he asked. \“Why not wait, get paid, then vanish with everything? Why just his own sales?\”",
+            "It didn’t make sense. Something must have gone wrong.",
+            "And something had.",
+            "Back at home, Kevin sat like a ghost, staring at the dashboard. The mining process had “ended,” but the payout didn’t come. Instead, a message popped up: \“Insufficient balance. Add more funds to complete withdrawal.\”",
+            "He had no more funds.",
+            "He couldn’t access his workplace. His only source of capital was now gone. Kevin began to tremble. Regret consumed him. All he wanted was to return the money. Erase everything. Undo the damage.",
+            "But it was too late."
+          ]
+        },
+        {
+          paragraphs: [
+            "His boss. His colleagues. His friends. They all now believed he had executed a long con, a master plan to rob the company.",
+            "Kevin turned on his phone.",
+            "A voicemail awaited.",
+            "It was a colleague’s voice, breathless and urgent: \“Kevin, the police are here. They know. They're going to arrest you.\”",
+            "Kevin’s eyes widened. He turned off the phone immediately.",
+            "He stood in the living room, sweating. Shaking. Eyes glazed. He couldn’t breathe. Couldn’t think.",
+            "Mary emerged from the bedroom. She had heard his panicked movements and heavy breathing.",
+            "\“Kevin?\” she said, her voice shaking. \“What’s going on?\”",
+            "He looked at her, tears welling in his eyes. But he couldn’t speak."
+          ]
+        },
+        {
+          paragraphs: [
+            "Mary stared at him, sensing something far worse than anything she could imagine.",
+            "And in that moment — between silence and confession — the man she loved looked like a stranger."
           ]
         },
         {
